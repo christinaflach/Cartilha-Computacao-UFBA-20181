@@ -1,2 +1,3 @@
-# mate39-20181
-Guia para os Calouros (Computação - UFBA)
+# Cartilha para Calouros 
+
+Guia para os Calouros da Computação - UFBA
