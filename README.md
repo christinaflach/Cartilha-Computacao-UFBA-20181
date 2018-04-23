@@ -1,3 +1,5 @@
 # Cartilha para Calouros 
-Tiago
-Guia para os Calouros da Computação - UFBA
+
+Guia para os Calouros da Computação - UFBA (2018)
+
+
