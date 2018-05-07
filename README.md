@@ -8,7 +8,12 @@ A versão da Cartilha que foi colocada na pasta latex/ serve apenas como entrada
 
 Após a conversão para markdown, iniciaremos o trabalho de atualização da Cartilha.
 
-## Atividades para entrega em 30/4
+## Atividade para entrega em 11/5: Revisão
+Em dupla.
+Ver especificação em #14.
+
+
+## Atividade para entrega em 07/5: Conversão
 
 - Atenção: trabalhar na branch mate39-20181.
 - Escolher um arquivo com extensão .tex (exceto main.tex) nas pastas Parte_* (ver Issues abertas)
