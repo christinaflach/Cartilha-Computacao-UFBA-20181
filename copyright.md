@@ -31,7 +31,7 @@ tem de distribuir as suas contribuições sob a mesma licença que o original.
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0).  
 
-##You are free:
+## You are free:
 
 **to Share** — to copy, distribute and transmit the work
 **to Remix** — to adapt the work
