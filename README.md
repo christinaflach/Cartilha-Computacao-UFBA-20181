@@ -8,20 +8,22 @@ A versão da Cartilha que foi colocada na pasta latex/ serve apenas como entrada
 
 Após a conversão para markdown, iniciaremos o trabalho de atualização da Cartilha.
 
-## Atividade para entrega em 11/5: Revisão
+## Exercício para entrega em 11/5: Revisão
 Em dupla.
-Ver especificação em #14.
+- Atenção: trabalhar na branch mate39-20181.
+- Fazer a revisão de ao menos um arquivo.
+- Se todos os arquivos tiverem sido revisados, escolher um que tenha apenas uma revisão.
+- Ver descrição do exercício em https://github.com/christinaflach/Cartilha-Computacao-UFBA/issues/14 
 
-
-## Atividade para entrega em 07/5: Conversão
-
+## Exercício para entrega em 07/5: Conversão
+Individual.
 - Atenção: trabalhar na branch mate39-20181.
 - Escolher um arquivo com extensão .tex (exceto main.tex) nas pastas Parte_* (ver Issues abertas)
 - Procurar ferramenta de conversão de .tex para .md (formato markdown)
 - Fazer a conversão de ao menos um arquivo e subir para o repositório.
 - Usar a estrutura do projeto para discutir questões envolvidas com essa atividade, sem envio de emails.
 Em último caso, usar o fórum GitHub criado no moodle da disciplina. 
-
+Ver projeto e issues #6, #7, #8, #9 e https://github.com/christinaflach/Cartilha-Computacao-UFBA/issues/15
 
 # Conteúdo
 
