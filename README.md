@@ -27,5 +27,8 @@ Em último caso, usar o fórum GitHub criado no moodle da disciplina.
     * [Introdução](link://markdown/introducao)
     * [Siglas](link://markdown/siglas)
 * Parte 2
+    * [Direitos](link://markdown/direitos)
+    * [Representação](link://markdown/representacao)
+    * [Solicitações](link://markdown/solicitacoes)
 * Parte 3
 * Parte 4

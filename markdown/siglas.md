@@ -7,6 +7,12 @@ você tenha conhecimento dessas siglas.
 
 [h]
 
+SIGLA | SIGNIFICADO | CONTATO | E-MAIL
+----- | ----------- | ------- | ------
+CEAG | Centro de Apoio à Graduação | 3283-6258 | ceagmat@ufba.br
+
+
+
 <span>l K<span>6cm</span> c r</span> SIGLA & SIGNIFICADO & CONTATO &
 E-MAIL\
 CEAG & Centro de Apoio à Graduação & 3283-6258 & ceagmat@ufba.br\

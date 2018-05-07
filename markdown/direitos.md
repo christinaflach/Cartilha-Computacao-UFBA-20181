@@ -4,7 +4,7 @@ Direitos do estudante
 Mobilidade acadêmica
 --------------------
 
-<span>L</span><span>0.5</span> ![image](mobi)
+<span>L</span><span>0.5</span> ![Mobilidade](/images/mobi.jpg)
 
 O Programa de Mobilidade Acadêmica foi criado com o objetivo de permitir
 que estudantes de graduação de Instituições Federais de Ensino Superior
