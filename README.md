@@ -17,18 +17,36 @@ Após a conversão para markdown, iniciaremos o trabalho de atualização da Car
 - Usar a estrutura do projeto para discutir questões envolvidas com essa atividade, sem envio de emails.
 Em último caso, usar o fórum GitHub criado no moodle da disciplina. 
 
+
 # Conteúdo
 
 * [Copyright](link://copyright)
-* Parte 1
+* **Parte 1**
     * [Departamento](link://markdown/departamento)
     * [Glossário](link://markdown/glossario)
     * [Histórico](link://markdown/historico)
     * [Introdução](link://markdown/introducao)
     * [Siglas](link://markdown/siglas)
-* Parte 2
+* **Parte 2**
     * [Direitos](link://markdown/direitos)
     * [Representação](link://markdown/representacao)
     * [Solicitações](link://markdown/solicitacoes)
-* Parte 3
-* Parte 4
+* **Parte 3**
+    * [Atividades](link://markdown/atividades)
+    * [Avaliações](link://markdown/avaliações)
+* **Parte 4**
+    * [Agradecimentos](link://markdown/agradecimentos)
+    * [Assistência](link://markdown/assistencia)
+    * [BCC](link://markdown/bcc)
+    * [BSI](link://markdown/bsi)
+    * [Cultura](link://markdown/cultura)
+    * [Texto](link://markdown/curriculum)
+    * [Ensino](link://markdown/ensino)
+    * [Extensão](link://markdown/extensao)
+    * [Honra](link://markdown/honra)
+    * [LCC](link://markdown/lcc)
+    * [PGCOMP](link://markdown/pgcomp)
+    * [Regime Disciplinar](link://markdown/regdisciplinar)
+    * [Serviços](link://markdown/servicos)
+
+
