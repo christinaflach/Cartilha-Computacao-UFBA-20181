@@ -64,15 +64,13 @@ em 8 semestres, cumprindo com os seguintes requisitos;
 
 -   Cursar as disciplinas obrigatórias do curso que totalizam 2.346
     horas;
-
 -   Cursar as disciplinas optativas do curso que totalizam 714 horas;
-
 -   Realizar trabalho de conclusão de curso sob a orientação de um
     professor com apresentação e defesa de uma monografia, com 187 horas
     de carga horária dividida em 2 componentes curriculares
     obrigatórios;
-
 -   Cumprir 100 horas de atividades complementares.
+
 Elenco de componentes curriculares
 ----------------------------------
 
@@ -135,6 +133,12 @@ em que essas horas estão divididas é de livre escolha do aluno.
 Currículo acadêmico do curso de Bacharelado em Ciência da Computação,
 aprovado em 09/2011, válido para todos os alunos ingressos a partir de
 2012.1.
+
+CODIGO | NOME DA DISCIPLINA 
+------ | ------------------
+mata39 | SIC
+
+
 K1.7cmK6cmK1cmK0.9cmK1.5cm\
 \
 Código & Nome da disciplina & (T-P) & C.H. & Requisitos\
