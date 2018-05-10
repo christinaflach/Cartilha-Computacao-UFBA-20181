@@ -19,4 +19,3 @@ DA | Diretório Acadêmico |  |
 DCE | Diretório Central dos Estudantes |  |
 PET | Programa de Educação Tutorial |  |
 SBC | Sociedade Brasileira de Computação |  |
-
