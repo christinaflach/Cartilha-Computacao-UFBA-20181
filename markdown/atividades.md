@@ -239,8 +239,8 @@ realizados durante os dias do evento.
 
 A SEMCOMP ou Semana da Computação é um evento realizado anualmente na UFBA, 
 na escola politécnica, e conta com mais de trinta palestras, com a participação
-de representates de grandes empresas e desenvolvedores como palestrantes, e
-4 cursos, com temas relacionados a área da computação.
+de representates de grandes empresas e desenvolvedores como palestrantes,
+e 4 cursos, com temas relacionados a área da computação.
 Este evento é importante para trazer uma visão mais ampla da atuação de
 profissionais da área de TI, bem como criar um possível contato entre
 os profissionais da área e os estudantes.
