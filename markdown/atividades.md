@@ -1,7 +1,6 @@
 Atividades acadêmicas
 =====================
 
-\DoPToC
 Monitoria
 ---------
 
