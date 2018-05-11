@@ -1,8 +1,7 @@
 Atividades acadêmicas
 =====================
 
-Monitoria
----------
+## Monitoria
 
 Pode-se entender como monitor, um discente que juntamente com um docente
 orienta grupos de estudantes em atividades acadêmicas. Funcionando como
@@ -20,8 +19,7 @@ inscrição no projeto deve-se preencher um formulário contido no site e o
 docente responsável deve apresentar a requisição junto ao seu
 departamento.
 
-Iniciação Científica, em Extensão e Pesquisa
---------------------------------------------
+## Iniciação Científica, em Extensão e Pesquisa
 
 A universidade não se limita apenas à área de ensino com aulas e provas,
 ela vai muito além disso com a parte de pesquisa e extensão, que é muito
@@ -32,7 +30,7 @@ do curso e permite o surgimento de outras oportunidades, tanto no
 ambiente interno, como no externo. A seguir, são apresentados os grupos
 de pesquisa e extensão do departamento de ciência da computação.
 
-### GRACO
+## GRACO
 
 Os Gestores da Rede Acadêmica de Computação (GRACO), é um grupo formado
 por estudantes do departamento de ciência da computação que tem como
@@ -40,11 +38,11 @@ objetivo dar manutenção e aprimorar os serviços da rede do DCC.
 Participando do Graco é possível adquirir conhecimento em Sistemas
 Operacionais e administração de redes.
 
-### Grupos de Pesquisa
+## Grupos de Pesquisa
 
 #### Laboratório de Sistemas Distribuídos
 
-L0.3 ![image]
+![Lasid](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/lasid.png)
 
 O Laboratório de Sistemas Distribuídos (LaSiD) atua no desenvolvimento
 de técnicas e ferramentas para concepção dos sistemas distribuídos. O
@@ -55,11 +53,9 @@ sensores, plataformas de software, entre outros.
 
 #### Laboratório de Engenharia de Software
 
-R0.3 ![image][1]
+![Les](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/les.jpg)
 
-  [image]: lasid.png {width="29%"}
-  [1]: les.jpg {width="29%"}
-  LES é a sigla para o Laboratório de engenharia de software, que tem como
+LES é a sigla para o Laboratório de engenharia de software, que tem como
 objetivo estudar a disciplina de engenharia de software e algumas
 subáreas, como, por exemplo, a área de design de software, sistemas
 sensíveis a contexto, métodos formais, reuso de software, entre outros.
@@ -81,8 +77,7 @@ semântica, sistemas de recomendação da Web, computação em nuvens, entre
 outras áreas, o CEManTIKA, que estuda conceitos, técnicas, modelos e
 ferramentas que apoiem a construção de sensíveis ao contexto.
 
-Onda Digital
-------------
+## Onda Digital
 
 É um programa de pesquisa, extensão e ensino com o objetivo de promover
 ações educativas, sociais e culturais, através da realização de cursos
@@ -90,10 +85,9 @@ na área de informática e manutenção de equipamentos como uma forma de
 inclusão digital de um público que esteja em uma situação de exclusão
 social.
 
-R0.3 ![image]
+## GRUPRO
 
-GRUPRO
-------
+![grupro](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/gr.png)
 
 O Grupo de Programação (GRUPRO) busca aprimorar as habilidades em
 programação dos estudantes e para isso são realizados treinamentos
@@ -103,25 +97,20 @@ programação como a maratona de programação e a olimpíada brasileira de
 informática. Interessados devem procurar os professores Maurício
 Pamplona ou Rubisley Lemes.
 
-Olimpíadas Universitárias
-=========================
+## Olimpíadas Universitárias
 
-  [image]: gr.png {width="29%"}
-  
-  R0.25 ![image]
-
-OBI
----
+#### OBI
 
 A Olímpiada Brasileira de Informática (OBI) é promovida pela Sociedade
 Brasileira de Computação e tem várias modalidades que vão desde o ensino
 fundamental até o nível universitário. Na modalidade Universitária podem
-competir somente os alunos que estiverem no primeiro ano da graduação.
+competir somente os alunos que estiverem no primeiro ano da graduação. 
 
-Maratona de Programação
------------------------
+![OBI](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/ob.png)
 
-L0.25 ![image][1]
+## Maratona de Programação
+
+![Maratonaprog](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/MaratonadeProgramacao.jpg)
 
 Outra atividade acadêmica em que os alunos UFBA podem participar, é a
 maratona de programação, que é um evento do Associação para Máquinas da
@@ -133,8 +122,7 @@ alunos, que tentarão resolver durante 5 horas o maior número possível
 dos 8 ou mais problemas que são entregues no início da competição."
 (Maratona IME, USP).
 
-ICPC
-----
+## ICPC
 
 O International Collegiate Programing Contest (ICPC) é a etapa mundial
 da Maratona de Programação, e conseguem participar só as equipes que
@@ -143,22 +131,16 @@ programação. É organizado pela Associação para Máquinas da Computação
 (ACM) e as provas são sempre em inglês. A próxima competição do ICPC vai
 acontecer na Dakota do Sul nos EUA.
 
-IEEExtreme 24-Hour
-------------------
+## IEEExtreme 24-Hour
 
 É uma competição global de programação onde estudantes se confrontam em
 resoluções de problemas durante o período de 24 horas.
 
-\centering
-![image][2]
+![IEEE](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/123.jpg)
 
-  [image]: ob {width="24%"}
-  [1]: prog.jpg {width="24%"}
-  [2]: ie.jpg
-  R0.3 ![image]
+## Programa de Educação Tutorial
 
-Programa de Educação Tutorial
-=============================
+![PET](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/pe.jpg)
 
 É um programa da Secretaria de Educação Superior, juntamente com o MEC
 que visa apoiar atividades acadêmicas que integrem a combinação de
@@ -195,12 +177,9 @@ De acordo com o ProGrad, os pets em atual funcionamento são:
 
 -   PET Farmácia - IMS.
 
-  [image]: pe.jpg
-  
-  Empresas Juniores
-=================
+## Empresas Juniores
 
-L0.3 ![image]
+![Info](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/inf.png)
 
 As empresas juniores são associações sem fins lucrativos cujo principal
 objetivo é pôr em prática aquilo que foi aprendido na sala de aula, como
@@ -220,8 +199,7 @@ por um processo Trainee que tem duração de 4 meses, onde são realizadas
 capacitações e os alunos devem desenvolver um projeto determinado pelos
 membros efetivos.
 
-Congressos
-==========
+## Congressos
 
 Um congresso é uma reunião entre pessoas que compartilham um mesmo
 interesse, visando tratar de assuntos relacionados a trabalhos
@@ -230,8 +208,7 @@ Muitos congressos são realizados com participação de alunos
 universitários, a seguir são listados alguns exemplos de congressos que
 os estudantes podem participar:
 
-Fórum Mundial
--------------
+## Fórum Mundial
 
 O fórum mundial é um congresso realizado anualmente e é separado em
 vários tipos, como o fórum mundial da agua, fórum mundial das migrações,
@@ -244,10 +221,7 @@ escolhido pelo fórum no ano em questão, à seleção interna do evento. Já
 para participar como visitante é apenas necessário se inscrever pelo
 site do evento.
 
-Congresso UFBA
---------------
-
-R0.3 ![image][1]
+## Congresso UFBA
 
 O congresso UFBA 70 anos foi um evento realizado no ano de 2016, do dia
 14/07 a 17/07, que visava uma reflexão sobre a universidade, sobre as
@@ -259,5 +233,14 @@ interessadas nos assuntos tratados e profissionais de áreas diversas,
 com interesse nas palestras, oficinas, discussões e minicursos
 realizados durante os dias do evento.
 
-  [image]: inf.png {width="29%"}
-  [1]: cong.png
+![congreUFBA](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/cong.png)
+
+## SEMCOMP
+
+A SEMCOMP ou Semana da Computação é um evento realizado anualmente na UFBA, 
+na escola politécnica, e conta com mais de trinta palestras, com a participação
+de representates de grandes empresas e desenvolvedores como palestrantes, e
+4 cursos, com temas relacionados a área da computação.
+Este evento é importante para trazer uma visão mais ampla da atuação de
+profissionais da área de TI, bem como criar um possível contato entre
+os profissionais da área e os estudantes.
