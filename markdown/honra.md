@@ -1,45 +1,22 @@
-Código de Honra
+﻿Código de Honra
 ===============
 
-Nós levamos o código de honra a sério e esperamos que você, estudante do
-DCC, também o respeite.
-
-O desrespeito ao código de honra, prejudica não somente o aprendizado do
-estudante, mas também afeta a atmosfera de confiança e crescimento
-pessoal dentro do DCC.
-
-O propósito deste documento é deixar clara as nossas expectativas na
-certeza de que reduziremos o número de violações no código de honra.
-
-Espera-se que o estudante seja responsável pela produção e envio do
-próprio código para análise do avaliador.
-
-Levar crédito pelo trabalho produzido por outra pessoa, se passando como
-o autor, é considerado plágio e será punido de acordo com o regime
-disciplina estabelecido pela UFBA.
+Nós levamos o código de honra a sério e esperamos que você, estudante do DCC, também o respeite. O desrespeito ao código de honra, prejudica não somente o aprendizado doestudante, mas também afeta a atmosfera de confiança e crescimento pessoal dentro do DCC.
+O propósito deste documento é deixar clara as nossas expectativas na certeza de que reduziremos o número de violações no código de honra.
+Espera-se que o estudante seja responsável pela produção e envio do próprio código para análise do avaliador.
+Levar crédito pelo trabalho produzido por outra pessoa, se passando como o autor, é considerado plágio e será punido de acordo com o regime disciplina estabelecido pela UFBA.
 
 3 cláusulas
 -----------
 
 De forma individual e coletiva, o estudante do DCC:
+1. Não fornecerá ou receberá ajuda em avaliações;
+2.  Não fornecerá ou receberá ajuda não autorizada em atividades em laboratório, na elaboração  
+de relatórios, ou em qualquer outra atividade sujeita a pontuação;
+3.  Atuará de forma a garantir que o código de honra seja seguido por todos os demais estudantes.
 
-1.  Não fornecerá ou receberá ajuda em avaliações;
-
-2.  Não fornecerá ou receberá ajuda não autorizada em atividades em
-    laboratório, na elaboração de relatórios, ou em qualquer outra
-    atividade sujeita a pontuação;
-
-3.  Atuará de forma a garantir que o código de honra seja seguido por
-    todos os demais estudantes.
-
-Os docentes do DCC confiam na integridade acadêmica dos seus estudantes,
-abstendo-se de tomar precauções desnecessárias para impedir as formas de
-desonestidade mencionadas acima. O corpo docente, na medida do possível,
-evitará práticas didáticas que estimulem a violação do código de honra.
-
-Apesar do docente ter o direito e a obrigação de definir os critérios de
-avaliação, os estudantes e o docente podem reestabelecer esses critérios
-para obter um melhor rendimento de aprendizado na disciplina.
+Os docentes do DCC confiam na integridade acadêmica dos seus estudantes, abstendo-se de tomar precauções desnecessárias para impedir as formas de desonestidade mencionadas acima. O corpo docente, na medida do possível, evitará práticas didáticas que estimulem a violação do código de honra.
+Apesar do docente ter o direito e a obrigação de definir os critérios de avaliação, os estudantes e o docente podem reestabelecer esses critérios para obter um melhor rendimento de aprendizado na disciplina.
 
 3 regras
 --------
