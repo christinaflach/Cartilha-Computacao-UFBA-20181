@@ -23,11 +23,9 @@ Apesar do docente ter o direito e a obrigação de definir os critérios de aval
 --------
 
 1.  Não consultar soluções ou códigos de um programa que não é seu.
-
 2.  Não compartilhar o código com outros estudantes.
-
 3.  Você deve indicar no seu trabalho as ajudas que você recebeu  
-Considera-se como plágio:
+Considera-se como plágio:  
 -   Apresentar o trabalho que é copiado ou derivado do trabalho dos
     outros e apresentado como o seu próprio
 -   Usar parte ou todo de uma solução a partir da Internet ou de uma
