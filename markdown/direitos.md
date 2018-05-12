@@ -4,7 +4,7 @@ Direitos do estudante
 Mobilidade acadêmica
 --------------------
 
-![image](/images/mobi.jpg)
+<img src="/images/mobi.jpg" alt="image" width="315" height="170" align="left">
 
 O Programa de Mobilidade Acadêmica foi criado com o objetivo de permitir
 que estudantes de graduação de Instituições Federais de Ensino Superior
@@ -57,7 +57,7 @@ de Intercâmbio relacionados com Universidades brasileiras.
 
 Aproveitamento de disciplina
 ----------------------------
-<img src="/images/aproveite.jpeg" alt="image" width="220" height="220">
+<img src="/images/aproveite.jpeg" alt="image" width="200" height="200" align="left">
 
 A dispensa de cursar, para efeito de integralização do currículo,
 determinado componente curricular ocorrerá mediante aproveitamento de
@@ -91,7 +91,7 @@ O estudante pode também solicitar o aproveitamento de disciplina através
 de um exame de conhecimento prévio. Para isto, o estudante deverá
 procurar o Colegiado do curso.
 
-<img src="/images/prova.jpg" alt="image" width="250" height="250">
+<img src="/images/prova.jpg" alt="image" width="265" height="250" align="right">
 
 O exame para a avaliação do conhecimento prévio deverá ser solicitado
 pelo Colegiado do curso ao órgão responsável pela oferta do componente
@@ -106,7 +106,7 @@ compatíveis com as características do componente a ser dispensado.
 
 Trancamento de matrícula
 ------------------------
-<img src=/images/tialara.jpg alt=image width=250 height=200>
+<img src="/images/tialara.jpg" alt="image" width="250" height="200" align="right">
 
 O trancamento de matrícula ou o trancamento total de inscrição em
 componentes curriculares, na graduação, não poderá ultrapassar 50%
@@ -162,21 +162,26 @@ curriculares no semestre letivo seguinte à interrupção.
 Regimes excepcionais
 --------------------
 
+
 Será concedido regime excepcional ao estudante que se enquadrar nas
 determinações do Decreto-Lei 1.044/69, da Lei n° 6.202/75 e
 nas normas estabelecidas pela Resolução 09/2009/CEPE.
 
-<img src=/images/gravida.jpeg alt=image width=250 height=250>
+<img src="/images/gravida.jpeg" alt="image" width="250" height="250" align="right">
 
 São considerados merecedores de tratamento excepcional os alunos de
 qualquer nível de ensino, portadores de afecções congênitas ou
 adquiridas, infecções, traumatismo ou outras condições mórbitas,
 determinando distúrbios agudos ou agudizados, caracterizados por:
 
+
+
 1. Incapacidade física relativa, incompatível com a frequência aos
     trabalhos escolares, desde que se verifique a conservação das
     condições intelectuais e emocionais necessárias para o
     prosseguimento da atividade escolar em novos moldes;
+    
+
 
 2. Ocorrência isolada ou esporádica;
 
