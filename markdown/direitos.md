@@ -4,13 +4,13 @@ Direitos do estudante
 Mobilidade acadêmica
 --------------------
 
-<span>L</span><span>0.5</span> ![Mobilidade](/images/mobi.jpg)
+![image](/images/mobi.jpg)
 
 O Programa de Mobilidade Acadêmica foi criado com o objetivo de permitir
 que estudantes de graduação de Instituições Federais de Ensino Superior
 (IFES) brasileiras pudessem realizar intercâmbio entre elas. Para
 garantir sua participação o estudante precisa ter cursado todas as
-disciplinas do primeiro ano, ou seja, 1$^{\mbox{o}}$ e 2$^{\mbox{o}}$
+disciplinas do primeiro ano, ou seja, 1° e 2°
 semestres letivos do curso na Instituição de origem, e possuir no máximo
 uma (01) reprovação por período letivo.
 
@@ -18,11 +18,11 @@ O processo de mobilidade acadêmica não se aplica a pedidos de
 transferência de alunos entre as Instituições Federais de Ensino
 Superior, que normalmente é feito por Concurso de Vagas Residuais.
 
-1.  O vínculo é temporário com a Instituição receptora, dependendo da
+1. O vínculo é temporário com a Instituição receptora, dependendo da
     existência de disponibilidade de vaga e das possibilidades de
     inscrição na(s) disciplina(s) pretendida(s);
 
-2.  O prazo máximo para afastamento é de 1 ano letivo, e em caráter
+2. O prazo máximo para afastamento é de 1 ano letivo, e em caráter
     excepcional, a critério da Instituição receptora, poderá haver
     renovação, sucessiva ou intercalada, do vínculo temporário, por até
     mais um período letivo.
@@ -57,8 +57,7 @@ de Intercâmbio relacionados com Universidades brasileiras.
 
 Aproveitamento de disciplina
 ----------------------------
-
-<span>l</span><span>0.2</span> ![image](aproveite)
+<img src="/images/aproveite.jpeg" alt="image" width="220" height="220">
 
 A dispensa de cursar, para efeito de integralização do currículo,
 determinado componente curricular ocorrerá mediante aproveitamento de
@@ -92,7 +91,7 @@ O estudante pode também solicitar o aproveitamento de disciplina através
 de um exame de conhecimento prévio. Para isto, o estudante deverá
 procurar o Colegiado do curso.
 
-<span>r</span><span>0.4</span> ![image](prova)
+<img src="/images/prova.jpg" alt="image" width="250" height="250">
 
 O exame para a avaliação do conhecimento prévio deverá ser solicitado
 pelo Colegiado do curso ao órgão responsável pela oferta do componente
@@ -107,8 +106,7 @@ compatíveis com as características do componente a ser dispensado.
 
 Trancamento de matrícula
 ------------------------
-
-<span>r</span><span>0.4</span> ![image](tialara)
+<img src=/images/tialara.jpg alt=image width=250 height=200>
 
 O trancamento de matrícula ou o trancamento total de inscrição em
 componentes curriculares, na graduação, não poderá ultrapassar 50%
@@ -165,22 +163,22 @@ Regimes excepcionais
 --------------------
 
 Será concedido regime excepcional ao estudante que se enquadrar nas
-determinações do Decreto-Lei 1.044/69, da Lei n$^{\mbox{o}}$ 6.202/75 e
+determinações do Decreto-Lei 1.044/69, da Lei n° 6.202/75 e
 nas normas estabelecidas pela Resolução 09/2009/CEPE.
 
-<span>r</span><span>0.3</span> ![image](gravida)
+<img src=/images/gravida.jpeg alt=image width=250 height=250>
 
 São considerados merecedores de tratamento excepcional os alunos de
 qualquer nível de ensino, portadores de afecções congênitas ou
 adquiridas, infecções, traumatismo ou outras condições mórbitas,
 determinando distúrbios agudos ou agudizados, caracterizados por:
 
-1.  Incapacidade física relativa, incompatível com a frequência aos
+1. Incapacidade física relativa, incompatível com a frequência aos
     trabalhos escolares, desde que se verifique a conservação das
     condições intelectuais e emocionais necessárias para o
     prosseguimento da atividade escolar em novos moldes;
 
-2.  Ocorrência isolada ou esporádica;
+2. Ocorrência isolada ou esporádica;
 
 3.  Duração que não ultrapasse o máximo ainda admissível, em cada caso,
     para a continuidade do processo pedagógico de aprendizado, atendendo
