@@ -22,7 +22,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   Endereço: Rua Barão de Jeremoabo, s/n, Campus Universitário de
     Ondina, 40170-290 - Salvador
 
-  [image]: biblioteca {width="29%"}
+![image](../biblioteca.jpg)
   
 ![Biblioteca](../images/biblioteca2_bus.jpg)
 
@@ -37,7 +37,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   Endereço: Rua Barão de Jeremoabo, s/n, 40170-290 - Salvador.
 
-R0.3 ![image][1]
+![image](../biblioteca3_fch.jpg)
 
 ### Biblioteca Universitária de Saúde Prof. Álvaro Rubim de Pinho
 
@@ -51,7 +51,6 @@ R0.3 ![image][1]
 
 -   Endereço: Rua Basílio da Gama, s/n, Canela, 40110-907 - Salvador
 
-R0.3 ![image]
 
 ### Biblioteca Universitária Isaías Alves
 
@@ -68,9 +67,6 @@ R0.3 ![image]
 
 -   E-mail: bsfch\@ufba.br
 
-  [image]: biblioteca20_exatas {width="29%"}
-  [1]: biblioteca2_bus {width="29%"}
-  [2]: biblioteca3_fch {width="29%"}
   
 ### Biblioteca Universitária Bernadeth Sinay Neves da Escola Politécnica
 
@@ -110,10 +106,9 @@ R0.3 ![image]
 
 -   E-mail: dortas\@ufba.br
 
-  [image]: biblioteca4_bernadeth {width="29%"}
-  [1]: biblioteca5_biedu {width="29%"}
-  [2]: biblioteca6_adm {width="29%"}
-  R0.3 ![image]
+![image](../images/biblioteca4_bernadeth.jpg)
+![image](../images/biblioteca5_biedu.jpg)
+![image](../images/biblioteca6_adm)
 
 ### Biblioteca da Escola de Música
 
@@ -129,8 +124,8 @@ R0.3 ![image]
 
 -   E-mail: bibmus\@ufba.br
 
-  [image]: biblioteca7_mus {width="29%"}
-  [1]: biblioteca8_eco {width="29%"}
+![image](../images/biblioteca7_mus.jpg) 
+![image](../images/biblioteca8_eco.jpg)
 
 ### Biblioteca da Faculdade de Economia
 
@@ -145,9 +140,8 @@ R0.3 ![image]
 
 -   E-mail: fcebibl\@ufba.br
 
-R0.3 ![image]
 
-  [image]: biblioteca9_arq {width="29%"}
+![image](../images/biblioteca9_arq.jpg)
 
 ### Biblioteca de Arquitetura
 
@@ -163,7 +157,6 @@ R0.3 ![image]
 
 -   E-mail: bibarq\@ufba.br
 
-R0.3 ![image]
 
 ### Biblioteca do Centro de Estudos e Terapia do Abuso de Drogas -- CETAD
 
@@ -179,10 +172,9 @@ R0.3 ![image]
 
 -   E-mail: bibliotecacetad\@hotmail.com
 
-R0.3 ![image][1]
+![image](../images/biblioteca10_cetad.jpg)
 
-  [image]: biblioteca10_cetad {width="29%"}
-  [1]: biblioteca11_ici {width="29%"}
+![image](../images/biblioteca11_ici.jpg)
 
 ### Biblioteca do Instituto de Ciência da Informação
 
@@ -225,11 +217,9 @@ R0.3 ![image][1]
 
 -   E-mail: bitea\@ufba.br
 
-R0.3 ![image][2]
-
-  [image]: biblioteca12_mas {width="29%"}
-  [1]: biblioteca13_tea {width="29%"}
-  [2]: biblioteca14_ceao {width="29%"}
+![image](../images/biblioteca12_mas.jpg) 
+![image](../images/biblioteca13_tea.jpg)
+![image](../images/biblioteca14_ceao.jpg)
 
 ### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
 
@@ -243,7 +233,6 @@ R0.3 ![image][2]
 
 -   E-mail: biceao\@ufba.br
 
-R0.3 ![image]
 
 ### Biblioteca Shiguemi Fujimori do Instituto de Geociências
 
@@ -260,9 +249,7 @@ R0.3 ![image]
 
 -   E-mail: bigeo\@ufba.br
 
-  [image]: biblioteca15_igeo {width="29%"}
-  \newpage
-R0.3 ![image]
+![image](../images/biblioteca15_igeo.jpg)
 
 ### Biblioteca Sofia Olszewski Filha da Escola de Belas Artes
 
@@ -275,10 +262,8 @@ R0.3 ![image]
 
 -   E-mail: bibeba\@ufba.br
 
-R0.3 ![image][1]
-
-  [image]: biblioteca16_eba {width="29%"}
-  [1]: biblioteca17_dir {width="29%"}
+![image](../images/biblioteca16_eba.jpg)
+![image](../images/biblioteca17_dir.jpg)
 
 ### Biblioteca Teixeira de Freitas da Faculdade de Direito
 
@@ -293,9 +278,7 @@ R0.3 ![image][1]
 
 -   E-mail: bidir\@ufba.br
 
-R0.3 ![image]
-
-  [image]: biblioteca18_gon {width="29%"}
+![image](../images/biblioteca18_gon.jpg)
 
 ### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
 
@@ -310,7 +293,6 @@ R0.3 ![image]
 -   Tel.: (71) 3283-5575
 
 -   E-mail: bibgm\@ufba.br
-R0.3 ![image]
 
 ### Biblioteca Prof. José Bernardo Cordeiro Filho - Faculdade de Ciências Contábeis
 
@@ -326,7 +308,6 @@ R0.3 ![image]
 
 -   E-mail: bibcontabeis\@ufba.br
 
-R0.3 ![image][1]
 
 ### Biblioteca do Campus Universitário Anísio Teixeira
 
@@ -342,8 +323,8 @@ R0.3 ![image][1]
 
 -   E-mail: bcat\@ufba.br
 
-  [image]: biblioteca19_cont {width="29%"}
-  [1]: ufba_cat {width="29%"}
+![image](../images/biblioteca19_cont.jpg)
+![image](../images/ufba_cat.jpg)
 
 ### Consulta ao acervo, reserva e renovação
 
@@ -353,7 +334,6 @@ exemplares. Os estudantes, por meio do número de matrícula e senha,
 podem também verificar o histórico de empréstimo, a data de devolução,
 fazer renovações e acompanhar as reservas.
 
-R0.3 ![image]
 
 Residências universitárias
 ==========================
@@ -369,8 +349,6 @@ Garibaldi.
 
 Restaurantes universitários
 ===========================
-
-L0.3 ![image][1]
 
 O restaurante universitário da UFBA distribui refeições no período do
 almoço e da janta necessitando apenas apresentar o comprovante de
@@ -391,11 +369,9 @@ serviço de educação infantil na faixa etária de 4 (quatro) meses a 3
 regulamente matriculados em curso de graduação e não podem ter vínculo
 empregatício.
 
-R0.3 ![image][2]
-
-  [image]: residenciaUfba.jpg {width="29%"}
-  [1]: RuUfba.jpg {width="29%"}
-  [2]: creche {width="29%"}
+![image](../images/residenciaUfba.jpg)
+![image](../images/RuUfba.jpg)
+![image](../images/creche.jpg)
 
 ### Serviço Creche UFBA
 
@@ -435,8 +411,6 @@ pontos facultativos) e possui dois regimes:
 Serviço Médico Universitário Rubens Brasil
 ==========================================
 
-R0.3 ![image]
-
 O SMURB -- Serviço Médico Universitário Rubens Brasil -- foi criado em
 1952 para atender os estudantes carentes, mas com a entrada do Doutor
 Rubens Brasil o serviço foi ampliado para os docentes, funcionários e
@@ -447,11 +421,11 @@ ingresso na universidade.
 BUZUFBA
 =======
 
-L0.3 ![image][1]
 
-  [image]: smurb.jpg {width="29%"}
-  [1]: buzufba {width="29%"}
-  Os estudantes da UFBA podem contar com o serviço gratuito dos BUZUFBAS.
+![image](../images/smurb.jpg)
+![image](../images/buzufba.jpg)
+  
+Os estudantes da UFBA podem contar com o serviço gratuito dos BUZUFBAS.
 A frota conta com cinco BUZUFBAS, dois que foram recentemente
 adicionados.
 
@@ -502,7 +476,6 @@ financeira para custear até duas refeições diárias.
 Garantia de duas refeições diárias realizadas no Restaurante
 Universitário.
 
-R0.3 ![image]
 
 Programa Permanecer
 -------------------
@@ -513,6 +486,6 @@ a terminalidade dos estudos em nível de graduação.Para participar, o
 aluno deve submeter de projetos, para avaliação, em uma das áreas de
 Iniciação: Extensão,Ensino, Pesquisa ou Aprendizagens Profissionais.
 
-  [image]: permanecer {width="29%"}
+![image](../images/permanecer.jpg)
 
 

@@ -1,11 +1,10 @@
 Solicitações acadêmicas
 =======================
 
-\DoPToC
 Secretaria geral dos cursos
 ---------------------------
 
-R0.3 ![image]
+![image](../images/sgc.jpg)
 
 A Secretaria Geral de Cursos (SGC) Possui um Núcleo de Atendimento ao
 Estudante (NAE),que atende aos alunos da UFBA e à comunidade externa. O
@@ -32,7 +31,7 @@ O SGC se divide em algumas seções que possum propósitos específicos
 Aproveitamento de estudo
 ------------------------
 
-R0.4 ![image][1]
+![image](../images/historico.jpg)
 
 Poderão ser aproveitados estudos/atividades realizados na UFBA ou em
 outra instituição de ensino superior desde que requerido pelo
@@ -44,8 +43,6 @@ interessado e instruídos com os seguintes documentos:
 
 -   Base legal que regulamenta o curso de origem
 
-  [image]: sgc {width="29%"}
-  [1]: historico {width="39%"}
   
   O SECUP é o responsável para realizar esta avaliação curricular
 
@@ -84,26 +81,25 @@ você busca por essa solicitação.
 Reavaliações
 ============
 
-R0.4 ![image]
+![image](../images/reavaliacoes.jpg)
 
-  [image]: reavaliacoes {width="39%"}
   
-  Retificação de Histórico
+Retificação de Histórico
 ------------------------
 
 É o procedimento que se deve adotar sempre que o histórico escolar não
 esteja correspondendo à realidade. Isento de taxa. Pode ser solicitada
 em qualquer época do ano. São as situações mais frequentes:
 
- Ausência ou erro de nota/resultado
------------------------------------
+Ausência ou erro de nota/resultado
+----------------------------------
 
 Caso você ache injusta uma nota atribuída por um professor, você pode
 pedir que o professor reveja sua prova em um prazo de 72 horas, ou você
 pode recorrer ao colegiado para que seja reavaliado por estes.
 
- Ausência de disciplina
------------------------
+Ausência de disciplina
+----------------------
 
 Em caso de erro do sistema, você perca o registro de uma disciplina
 cursada, você pode pedir com que revejam seu histórico para que você
@@ -126,3 +122,5 @@ Transferência interna de caráter especial
 
 Quando você transfere de um curso para outro dentro da própria
 faculdade, você busca essa solicitação.
+
+
