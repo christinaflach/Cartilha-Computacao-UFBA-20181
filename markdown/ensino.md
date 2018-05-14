@@ -4,8 +4,7 @@ Ensino, Pesquisa e Extensão
 Ensino
 ------
 
-<span>L</span><span>0.3</span> ![Docentes - DCC/UFBA](ensino.png "fig:")
-[Rotulo]
+![Docentes - DCC/UFBA](../images/ensino.png "Docentes - DCC/UFBA")
 
 Na área do Ensino a UFBA oferece cursos de Graduação e Pós Graduação em
 várias áreas do conhecimento, sob a orientação da Pró-Reitoria de Ensino
