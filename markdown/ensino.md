@@ -6,7 +6,6 @@ Ensino
 
 ![Docentes - DCC/UFBA](../images/ensino.png "Docentes - DCC/UFBA")
 
-
 Na área do Ensino a UFBA oferece cursos de Graduação e Pós Graduação em
 várias áreas do conhecimento, sob a orientação da Pró-Reitoria de Ensino
 de Graduação, órgão responsável pelo planejamento, coordenação,
