@@ -25,35 +25,41 @@ Individual.
 Em último caso, usar o fórum GitHub criado no moodle da disciplina. 
 Ver projeto e issues #6, #7, #8, #9 e https://github.com/christinaflach/Cartilha-Computacao-UFBA/issues/15
 
-# Conteúdo
+
+Guia para os Calouros da Computação - UFBA (2018)
+
+## Conteúdo
 
 * [Copyright](link://copyright)
 * **Parte 1**
-    * [Departamento](link://markdown/departamento)
-    * [Glossário](link://markdown/glossario)
-    * [Histórico](link://markdown/historico)
-    * [Introdução](link://markdown/introducao)
-    * [Siglas](link://markdown/siglas)
+    * [Boas-vindas](link://markdown/introducao)
+    * [Contexto Histórico](link://markdown/historico)
+    * [O Departamento de Ciência da Computação](link://markdown/departamento)
+    * [Siglas 1](link://markdown/siglas1)
+    * [Siglas 2](link://markdown/siglas2)
 * **Parte 2**
-    * [Direitos](link://markdown/direitos)
-    * [Representação](link://markdown/representacao)
-    * [Solicitações](link://markdown/solicitacoes)
+    * [Direitos do Estudante](link://markdown/direitos)
+    * [Representação Estudantil](link://markdown/representacao)
+    * [Solicitações Acadêmicas](link://markdown/solicitacoes)
 * **Parte 3**
-    * [Atividades](link://markdown/atividades)
-    * [Avaliações](link://markdown/avaliações)
+    * [Atividades Acadêmicas](link://markdown/atividades)
+    * [Avaliações](link://markdown/avaliacoes)
 * **Parte 4**
-    * [Agradecimentos](link://markdown/agradecimentos)
-    * [Assistência](link://markdown/assistencia)
+    * [Curriculum](link://markdown/curriculum)
+    * [Ensino](link://markdown/ensino)
+    * Graduação
     * [BCC](link://markdown/bcc)
     * [BSI](link://markdown/bsi)
-    * [Cultura](link://markdown/cultura)
-    * [Texto](link://markdown/curriculum)
-    * [Ensino](link://markdown/ensino)
-    * [Extensão](link://markdown/extensao)
-    * [Honra](link://markdown/honra)
     * [LCC](link://markdown/lcc)
+    * Pós-graduação
     * [PGCOMP](link://markdown/pgcomp)
-    * [Regime Disciplinar](link://markdown/regdisciplinar)
+    * [PPGM](link://markdown/ppgm)
+* **Parte 5 - Além Muros**
+    * [Extensão](link://markdown/extensao)
+* **Parte 6 - Guia Geral**
+    * [Assistência](link://markdown/assistencia)
     * [Serviços](link://markdown/servicos)
+    * [Cultura](link://markdown/cultura)
+    * [Honra](link://markdown/honra)
 
 
