@@ -17,7 +17,7 @@ acharam.
 o espírito da honestidade falar mais alto e compartilhe conosco! Mandem
 as informações por inbox. ;)”
 
-![image](achadoseperdidos)
+![image](../images/achadoseperdidos.jpg)
 
 Assistência Jurídica
 --------------------
@@ -72,7 +72,7 @@ R. da Paz, s/n, Graça, Salvador-BA
 3.  Informações Necessárias: relato da problemática que dará, ou não,
     inicio a um processo
 
-<span>r</span><span>0.4</span> ![image](bancos)
+![image](../bancos.jpg)
 
 Bancos
 ------
@@ -88,9 +88,9 @@ do Brasil, Banco Itaú e Caixa Econômica Federal.
 BURMC
 -----
 
-<span>r</span><span>0.4</span> ![image](biblioteca)
+![image](../images/biblioteca.jpg)
 
-Ou Biblioteca Universitária Reitor Macedo Costa, é uma das diversas
+Biblioteca Universitária Reitor Macedo Costa, é uma das diversas
 bibliotecas que faze parte do SIB- Sistema de Bibliotecas da UFBA-
 atende através do emprésctimo de livros (Comunidade Interna), consultas
 (serviço personalizado) e orientação à normalização de trabalhos

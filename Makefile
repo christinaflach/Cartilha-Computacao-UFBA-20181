@@ -14,6 +14,7 @@ HTML = $(patsubst ./%.md, public/%.html, $(PARTS))
 ASSETS = $(patsubst template/%, public/%, $(wildcard template/*.css template/*.png template/*.jpg template/images/*))
 
 all: $(HTML) $(ASSETS) public/bootstrap
+	@cp -R ./images public/
 	@echo
 	@echo "Site built. Now run ./script/server to view it"
 	@echo

@@ -4,8 +4,8 @@ Ensino, Pesquisa e Extensão
 Ensino
 ------
 
-<span>L</span><span>0.3</span> ![Docentes - DCC/UFBA](ensino.png "fig:")
-[Rotulo]
+![Docentes - DCC/UFBA](../images/ensino.png "Docentes - DCC/UFBA")
+
 
 Na área do Ensino a UFBA oferece cursos de Graduação e Pós Graduação em
 várias áreas do conhecimento, sob a orientação da Pró-Reitoria de Ensino
@@ -91,7 +91,7 @@ pós-graduação apoiados e ao seu corpo docente, atuante em diversas
 
 ### Laboratorio de Sistemas Distribuídos LaSiD
 
-<span>L</span><span>0.3</span> ![image](pesquisa1.png)
+![lasid](images/pesquisa1.png)
 
 O Laboratório de Sistemas Distribuídos ( LaSiD) é um laboratório de
 pesquisa dentro do Departamento de Ciência da Computação na Universidade

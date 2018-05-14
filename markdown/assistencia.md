@@ -1,16 +1,15 @@
 Assistência estudantil
 ======================
 
-\DoPToC
 Bibliotecas
 -----------
 
 A UFBA dispõe de 22 (vinte e duas) bibliotecas que oferecem empréstimos
 gratuitos de material bibliográfico aos estudantes da UFBA.
 
-R0.3 ![image]
+![Biblioteca de Exatas](../images/biblioteca20_exatas.jpg)
 
-#### Biblioteca Universitária Reitor Macedo Costa
+### Biblioteca Universitária Reitor Macedo Costa
 
 -   Abriga acervo do Instituto de Letras, Faculdade de Comunicação,
     Instituto de Humanidades, Artes e Ciências, Instituto de Biologia,
@@ -25,8 +24,7 @@ R0.3 ![image]
 
   [image]: biblioteca {width="29%"}
   
-  \newpage
-R0.3 ![image]
+![Biblioteca](../images/biblioteca2_bus.jpg)
 
 ### Biblioteca Universitária de Exatas Omar Catunda
 
@@ -53,7 +51,7 @@ R0.3 ![image][1]
 
 -   Endereço: Rua Basílio da Gama, s/n, Canela, 40110-907 - Salvador
 
-R0.3 ![image][2]
+R0.3 ![image]
 
 ### Biblioteca Universitária Isaías Alves
 
@@ -74,8 +72,6 @@ R0.3 ![image][2]
   [1]: biblioteca2_bus {width="29%"}
   [2]: biblioteca3_fch {width="29%"}
   
-  R0.3 ![image]
-
 ### Biblioteca Universitária Bernadeth Sinay Neves da Escola Politécnica
 
 -   Horário de funcionamento: segunda a sexta-feira, das 8:00h às 22:00h
@@ -88,8 +84,6 @@ R0.3 ![image][2]
 
 -   E-mail: bieng\@ufba.br
 
-R0.3 ![image][1]
-
 ### Biblioteca Anísio Teixeira da Faculdade de Educação
 
 -   Abriga acervo das áreas de Educação, Psicologia, Filosofia,
@@ -101,9 +95,6 @@ R0.3 ![image][1]
 -   Tel.: (71) 3283-7255/3283-7256
 
 -   E-mail: biedu\@ufba.br
-
-\newpage
-R0.3 ![image][2]
 
 ### Biblioteca da Escola de Administração
 
@@ -138,11 +129,10 @@ R0.3 ![image][2]
 
 -   E-mail: bibmus\@ufba.br
 
-R0.3 ![image][1]
-
   [image]: biblioteca7_mus {width="29%"}
   [1]: biblioteca8_eco {width="29%"}
-  ### Biblioteca da Faculdade de Economia
+
+### Biblioteca da Faculdade de Economia
 
 -   Abriga acervo dos cursos de Ciências Econômicas.
 
@@ -158,7 +148,8 @@ R0.3 ![image][1]
 R0.3 ![image]
 
   [image]: biblioteca9_arq {width="29%"}
-  ### Biblioteca de Arquitetura
+
+### Biblioteca de Arquitetura
 
 -   Abriga acervo dos cursos de Arquitetura e Urbanismo.
 
@@ -192,7 +183,7 @@ R0.3 ![image][1]
 
   [image]: biblioteca10_cetad {width="29%"}
   [1]: biblioteca11_ici {width="29%"}
-  \newpage
+
 ### Biblioteca do Instituto de Ciência da Informação
 
 -   Abriga acervo dos cursos de Ciência da Informação.
@@ -207,7 +198,6 @@ R0.3 ![image][1]
 
 -   E-mail: bibici\@ufba.br
 
-R0.3 ![image]
 
 ### Biblioteca do Museu de Arte Sacra
 
@@ -223,7 +213,6 @@ R0.3 ![image]
 
 -   E-mail: bibmas\@ufba.br
 
-R0.3 ![image][1]
 
 ### Biblioteca Nelson de Araújo da Escola de Teatro
 
@@ -241,7 +230,8 @@ R0.3 ![image][2]
   [image]: biblioteca12_mas {width="29%"}
   [1]: biblioteca13_tea {width="29%"}
   [2]: biblioteca14_ceao {width="29%"}
-  ### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
+
+### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
 
 -   Horário de funcionamento: segunda a sexta-feira, das 8:00h às
     19:00h.
@@ -289,7 +279,8 @@ R0.3 ![image][1]
 
   [image]: biblioteca16_eba {width="29%"}
   [1]: biblioteca17_dir {width="29%"}
-  ### Biblioteca Teixeira de Freitas da Faculdade de Direito
+
+### Biblioteca Teixeira de Freitas da Faculdade de Direito
 
 -   Abriga acervo que abrange todas as áreas do direito.
 
@@ -305,7 +296,8 @@ R0.3 ![image][1]
 R0.3 ![image]
 
   [image]: biblioteca18_gon {width="29%"}
-  ### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
+
+### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
 
 -   Abriga extenso acervo das áreas de Medicina.
 
@@ -352,7 +344,8 @@ R0.3 ![image][1]
 
   [image]: biblioteca19_cont {width="29%"}
   [1]: ufba_cat {width="29%"}
-  ### Consulta ao acervo, reserva e renovação
+
+### Consulta ao acervo, reserva e renovação
 
 Através do sistema PERGAMUM os estudantes podem consultar o acervo
 bibliográfico das bibliotecas, bem como a quantidade disponível de
@@ -403,7 +396,8 @@ R0.3 ![image][2]
   [image]: residenciaUfba.jpg {width="29%"}
   [1]: RuUfba.jpg {width="29%"}
   [2]: creche {width="29%"}
-  ### Serviço Creche UFBA
+
+### Serviço Creche UFBA
 
 A Creche UFBA é uma unidade vinculada à PROAE que atende crianças filhas
 de estudantes, servidores e professores da UFBA, com idades entre 4
@@ -437,7 +431,8 @@ pontos facultativos) e possui dois regimes:
 
 -   parcial - das 7 às 13 horas no turno matutino ou das 13 às 18 horas
     no turno vespertino
-    Serviço Médico Universitário Rubens Brasil
+
+Serviço Médico Universitário Rubens Brasil
 ==========================================
 
 R0.3 ![image]
@@ -519,3 +514,5 @@ aluno deve submeter de projetos, para avaliação, em uma das áreas de
 Iniciação: Extensão,Ensino, Pesquisa ou Aprendizagens Profissionais.
 
   [image]: permanecer {width="29%"}
+
+
