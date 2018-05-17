@@ -107,112 +107,104 @@ Computação e Sistema de Informação. Matérias como Filosofia da Educação
 e Fundamentos Psicológicos da Educação são exemplos que formam a base
 para profissionais da área de pedagogia.
 
+<span>K<span>1.7cm</span>K<span>6cm</span>K<span>1.4cm</span>K<span>0.9cm</span>K<span>1.5cm</span></span>\
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+EDCB80 & Filosofia da Educação & (2-2-0) & 68 &\
+MATA01 & Cálculo A & (4-0-0) & 68\
+MATA37 & Introdução à Lógica de Programação & (2-2-0) & 68 &\
+MATA39 & Seminários de Introdução ao Curso & (3-0-0) & 51\
+MATA42 & Matemática Discreta I & (4-0-0) & 68\
+ & 19 & 323\
+ & 19 & 323\
 
-Licenciatura em computação
--------------------------------------
-1º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-EDCB80 | Filosofia da Educação              | (2-2-0) | 68   |
-MATA01 | Cálculo A                          | (4-0-0) | 68   |
-MATA37 | Introdução à Lógica de Programação | (2-2-0) | 68   |
-MATA39 | Seminários de Introdução ao Curso  | (3-0-0) | 51   |
-MATA42 | Matemática Discreta I              | (4-0-0) | 68   |
-| |TOTAL |19      | 323  |
-| |TOTAL ACUMULADO|19      | 323  |
--------------------------------------------------------------------
-2º Período
-Código | Nome da disciplina                                     | (T-P-E) | C.H. | Requisitos
--------|--------------------------------------------------------|---------|------|-----------
-EDC287 | Educação e Tecnologias Contemporâneas                  | (2-2-0) | 68   |
-MATD04 | Estrutura de Dados                                     | (2-2-0) | 68   |MATA37
-MATC81 | Sistemas Básicos de Computação: Arquitetura e Software | (2-2-0) | 68   |MATA39
-MATA97 | Introdução à Lógica Matemática                         | (2-2-0) | 68   |MATA42
-MATA68 | Computador, Ética e Sociedade                          | (2-1-0) | 51   |
-| |TOTAL |19      | 323  |
-| |TOTAL ACUMULADO|38      | 646  |
-------------------------------------------------------------------------------
-3º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-EDCA01 | Fundamentos Psicológicos da Educação | (2-2-0) | 68 |
-MATA55 | Programação Orientada a Objetos | (2-2-0) | 68 | MATD01
-MAT236 | Métodos Estatísticos | (4-0-0) | 68 | MATA01, MATA42
-MATC74 | Introdução a Linguagens Formais e Autômatos | (2-2-0) | 68 | MATA42
-OPT01 | — | — | 51 | 
-| |TOTAL |19      | 323  |
-| |TOTAL ACUMULADO|19      | 969  |
-------------------------------------------------------------
-4º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-EDCA11 | Didática e Práxis Pedagógica I | (0-4-0) | 68 |
-MATA62 | Engenharia de Software I | (2-2-0) | 68 | MATA55
-MATC82 | Sistemas Web | (2-2-0) | 68 | MATA55
-MATA59 | Redes de Computadores I | (2-2-0) | 68 | MATC81
-MATA41 | Informática na Educação | (2-2-0) | 68
-| |TOTAL |20      | 340  |
-| |TOTAL ACUMULADO|77      | 1309  |
----------------------------------------------------
-5º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-EDCA12 | Didáticas e Práxis Pedagógicas II | (0-4-0) | 68 | EDCA11
-MATB19 | Sistemas Multimídias | (2-2-0) | 68 | MATA55
-MATD05 | Banco de Dados e Aplicações | (2-2-0) | 68 | MATD04
-MATB21 | Ambientes Interativos de Aprendizagem | (4-0-0) | 68 | MATA37, MATA41
-EDC286 | Avaliação de Aprendizagem | (2-2-0) | 68
-| |TOTAL |20      | 340  |
-| |TOTAL ACUMULADO|97      | 1649  |
---------------------------------------------------
-6º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-MATC68 | Estágio Supervisionado I | (0-0-4) | 68 | EDCA11, EDCA12
-MATC72 | Interação Humano-Computador | (2-2-0) | 68 | MATB19
-MATC78 | Projeto de Software Educativo | (2-2-0 | 68 | MATA62
-MATB22 | Laboratório de Informática na Educação | (0-3-0) | 51 | MATB21
-MATC76 | Prática de Ensino de Computação I | (0-4-0) | 68 | EDCA11
-| |TOTAL |19      | 323  |
-| |TOTAL ACUMULADO|116      | 1972  |
-----------------------------------------------------------
-7º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-MATC69 | Estágio Supervisionado II | (0-0-4) | 68 | MATC68
-MATC79 | Projetos Interdisciplinares: concepçao e ética | (1-3-0) | 68 | EDCA11, MATA41
-MATB20 | Inteligência Artificial em Educação | (2-2-0) | 68 | MATA41, MATC73
-MATC77 | Prática de Ensino de Computação | (0-4-0) | 68 | MATA41, MATC73
-OPT02 | — | — | 51
-| |TOTAL |19      | 323  |
-| |TOTAL ACUMULADO|116      | 2295  |
------------------------------------------------------
-8º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-MATC70 | Estágio Supervisionado III | (0-0-6) | 102 | MATC69
-LETE46 | Libras-Língua Brasileira de Sinais | (1-1-0) | 34
-OPT03 | — | — | 68
-OPT04 | — | — | 51
-OPT05 | — | — | 51
-| |TOTAL |18      | 306  |
-| |TOTAL ACUMULADO|153      | 2601  |
------------------------------------------
-9º Período
-Código | Nome da disciplina                 | (T-P-E) | C.H. | Requisitos
--------|------------------------------------|---------|------|-----------
-MATC69 | Estágio Supervisionado IV | (0-0-10) | 170 | MATC70\
-OPT06 | — | — | 68
-OPT07 | — | — | 51
-OPT08 | — | — | 51
-| |TOTAL |20      | 340  |
-| |TOTAL ACUMULADO|173      | 2941  |
-----------------------------------------------------
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+EDC287 & Educação e Tecnologias Contemporâneas & (2-2-0) & 68\
+MATD04 & Estrutura de Dados & (2-2-0) & 68 & MATA37\
+MATC81 & Sistemas Básicos de Computação: Arquitetura e Software &
+(2-2-0) & 68 & MATA39\
+MATA97 & Introdução à Lógica Matemática & (2-2-0) & 68 & MATA42\
+MATA68 & Computador, Ética e Sociedade & (2-1-0) & 51\
+ & 19 & 323\
+ & 38 & 646\
 
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+EDCA01 & Fundamentos Psicológicos da Educação & (2-2-0) & 68 &\
+MATA55 & Programação Orientada a Objetos & (2-2-0) & 68 & MATD01\
+MAT236 & Métodos Estatísticos & (4-0-0) & 68 & MATA01 MATA42\
+MATC74 & Introdução a Linguagens Formais e Autômatos & (2-2-0) & 68 &
+MATA42\
+OPT01 & — & — & 51\
+ & 19 & 323\
+ & 57 & 969\
 
-Legenda:
-**C.H.** Carga Horária
-**T** Carga horária de aula teórica
-**P** Carga horária de aula prática
-**E** Carga horária de estágio
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+EDCA11 & Didática e Práxis Pedagógica I & (0-4-0) & 68 &\
+MATA62 & Engenharia de Software I & (2-2-0) & 68 & MATA55\
+MATC82 & Sistemas Web & (2-2-0) & 68 & MATA55\
+MATA59 & Redes de Computadores I & (2-2-0) & 68 & MATC81\
+MATA41 & Informática na Educação & (2-2-0) & 68\
+ & 20 & 340\
+ & 77 & 1309\
+
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+EDCA12 & Didáticas e Práxis Pedagógicas II & (0-4-0) & 68 & EDCA11\
+MATB19 & Sistemas Multimídias & (2-2-0) & 68 & MATA55\
+MATD05 & Banco de Dados e Aplicações & (2-2-0) & 68 & MATD04\
+MATB21 & Ambientes Interativos de Aprendizagem & (4-0-0) & 68 & MATA37
+MATA41\
+EDC286 & Avaliação de Aprendizagem & (2-2-0) & 68\
+ & 20 & 340\
+ & 97 & 1649\
+
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+MATC68 & Estágio Supervisionado I & (0-0-4) & 68 & EDCA11 EDCA12\
+MATC72 & Interação Humano-Computador & (2-2-0) & 68 & MATB19\
+MATC78 & Projeto de Software Educativo & (2-2-0 & 68 & MATA62\
+MATB22 & Laboratório de Informática na Educação & (0-3-0) & 51 & MATB21\
+MATC76 & Prática de Ensino de Computação I & (0-4-0) & 68 & EDCA11\
+ & 19 & 323\
+ & 116 & 1972\
+
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+MATC69 & Estágio Supervisionado II & (0-0-4) & 68 & MATC68\
+MATC79 & Projetos Interdisciplinares: concepçao e ética & (1-3-0) & 68 &
+EDCA11 MATA41\
+MATB20 & Inteligência Artificial em Educação & (2-2-0) & 68 & MATA41,
+MATC73\
+MATC77 & Prática de Ensino de Computação & (0-4-0) & 68 & MATA41 MATC73\
+OPT02 & — & — & 51\
+ & 19 & 323\
+ & 135 & 2295\
+
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+MATC70 & Estágio Supervisionado III & (0-0-6) & 102 & MATC69\
+LETE46 & Libras-Língua Brasileira de Sinais & (1-1-0) & 34\
+OPT03 & — & — & 68\
+OPT04 & — & — & 51\
+OPT05 & — & — & 51\
+ & 18 & 306\
+ & 153 & 2601\
+
+\
+Código & Nome da disciplina & (T-P-E) & C.H. & Requisitos\
+MATC69 & Estágio Supervisionado IV & (0-0-10) & 170 & MATC70\
+OPT06 & — & — & 68\
+OPT07 & — & — & 51\
+OPT08 & — & — & 51\
+ & 20 & 340\
+ & 173 & 2941\
+
+Legenda:\
+<span>**C.H.**</span> Carga Horária\
+<span>**T**</span> Carga horária de aula teórica\
+<span>**P**</span> Carga horária de aula prática\
+<span>**E**</span> Carga horária de estágio\
 
