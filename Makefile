@@ -13,14 +13,11 @@ PREPROCESSED_PARTS = $(patsubst %, public/%.in, $(PARTS))
 HTML = $(patsubst ./%.md, public/%.html, $(PARTS))
 ASSETS = $(patsubst template/%, public/%, $(wildcard template/*.css template/*.png template/*.jpg template/images/*))
 
-all: $(HTML) $(ASSETS) public/bootstrap
+all: $(HTML) $(ASSETS)
 	@cp -R ./images public/
 	@echo
-	@echo "Site built. Now run ./script/server to view it"
+	@echo "Site built."
 	@echo
-
-public/bootstrap:
-	$(progress) ln -s /usr/share/twitter-bootstrap/files public/bootstrap
 
 public/%: template/%
 	$(helper) mkdir -p $$(dirname $@)
@@ -37,9 +34,6 @@ public/%.md.in: %.md script/expand-links.sed
 	$(helper) sed -f script/expand-links.sed $< > $@
 
 .PRECIOUS: %.html.in public/%.md.in
-
-upload: all
-	sh script/upload.sh
 
 clean:
 	$(RM) -r public
