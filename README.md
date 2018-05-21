@@ -8,14 +8,23 @@ A versão da Cartilha que foi colocada na pasta latex/ serve apenas como entrada
 
 Após a conversão para markdown, iniciaremos o trabalho de atualização da Cartilha.
 
-## Exercício para entrega em 11/5: Revisão
+
+## Entrega em 28/5: Visão Crítica da Cartilha
+Em equipe de até 5 pessoas.
+- Atenção: A equipe deve criar uma 'branch' exclusiva e trabalhar sobre ela (por exemplo, equipe01).
+- A equipe deve criar um relatório com avaliação crítica consolidado de todos os membros da equipe sobre a Cartilha de Calouros (avaliacao_da_equipe.md). Colocar os nomes dos membros da equipe no início do texto.
+- A equipe deve criar um guia de perguntas (guia_de_perguntas.md) para entrevista semi-estruturada a ser realizada com estudantes e docentes da Computação-UFBA sobre a Cartilha de Calouros. Fazer perguntas sobre formato, organização geral e conteúdo.
+- Cada membro da equipe deve entrevistar um colega veterano sobre a Cartilha, seguindo o guia de perguntas definido. Cada membro da equipe deve colocar no github as respostas de seu entrevistado (entrevistado_01.md e assim por diante). 
+- Publicar um relatório com sugestões de melhoria para a Cartilha de Calouros (proposta.md).
+
+## Entrega em 11/5: Revisão da Cartilha
 Em dupla.
 - Atenção: trabalhar na branch mate39-20181.
 - Fazer a revisão de ao menos um arquivo.
 - Se todos os arquivos tiverem sido revisados, escolher um que tenha apenas uma revisão.
 - Ver descrição do exercício em https://github.com/christinaflach/Cartilha-Computacao-UFBA/issues/14 
 
-## Exercício para entrega em 07/5: Conversão
+## Exercício para entrega em 07/5: Conversão da Cartilha
 Individual.
 - Atenção: trabalhar na branch mate39-20181.
 - Escolher um arquivo com extensão .tex (exceto main.tex) nas pastas Parte_* (ver Issues abertas)
