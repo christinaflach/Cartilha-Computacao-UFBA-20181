@@ -7,9 +7,6 @@ Bibliotecas
 A UFBA dispõe de 22 (vinte e duas) bibliotecas que oferecem empréstimos
 gratuitos de material bibliográfico aos estudantes da UFBA.
 
-![Biblioteca de Exatas](../images/biblioteca20_exatas.jpg)
-
-
 ### Biblioteca Universitária Reitor Macedo Costa
 
 -   Abriga acervo do Instituto de Letras, Faculdade de Comunicação,
@@ -23,9 +20,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   Endereço: Rua Barão de Jeremoabo, s/n, Campus Universitário de
     Ondina, 40170-290 - Salvador
 
-![image](../biblioteca.jpg)
-  
-![Biblioteca](../images/biblioteca2_bus.jpg)
+![Biblioteca](../biblioteca.jpg)
 
 ### Biblioteca Universitária de Exatas Omar Catunda
 
@@ -38,9 +33,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   Endereço: Rua Barão de Jeremoabo, s/n, 40170-290 - Salvador.
 
-![image](../images/biblioteca3_fch.jpg)
-
-<img align="left" width="300" height="300" src="../images/biblioteca3_fch.jpg">
+![Biblioteca de Exatas](../images/biblioteca20_exatas.jpg)
 
 ### Biblioteca Universitária de Saúde Prof. Álvaro Rubim de Pinho
 
@@ -54,6 +47,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   Endereço: Rua Basílio da Gama, s/n, Canela, 40110-907 - Salvador
 
+![Biblioteca 2](../images/biblioteca2_bus.jpg)
 
 ### Biblioteca Universitária Isaías Alves
 
@@ -70,7 +64,10 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bsfch\@ufba.br
 
-  
+<p align="center">
+  <img width="460" height="300" src="../images/biblioteca3_fch.jpg">
+</p>
+
 ### Biblioteca Universitária Bernadeth Sinay Neves da Escola Politécnica
 
 -   Horário de funcionamento: segunda a sexta-feira, das 8:00h às 22:00h
@@ -83,6 +80,8 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bieng\@ufba.br
 
+![image](../images/biblioteca4_bernadeth.jpg)
+
 ### Biblioteca Anísio Teixeira da Faculdade de Educação
 
 -   Abriga acervo das áreas de Educação, Psicologia, Filosofia,
@@ -94,6 +93,8 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   Tel.: (71) 3283-7255/3283-7256
 
 -   E-mail: biedu\@ufba.br
+
+![image](../images/biblioteca5_biedu.jpg)
 
 ### Biblioteca da Escola de Administração
 
@@ -109,8 +110,6 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: dortas\@ufba.br
 
-![image](../images/biblioteca4_bernadeth.jpg)
-![image](../images/biblioteca5_biedu.jpg)
 ![image](../images/biblioteca6_adm)
 
 ### Biblioteca da Escola de Música
@@ -128,7 +127,6 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   E-mail: bibmus\@ufba.br
 
 ![image](../images/biblioteca7_mus.jpg) 
-![image](../images/biblioteca8_eco.jpg)
 
 ### Biblioteca da Faculdade de Economia
 
@@ -144,7 +142,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   E-mail: fcebibl\@ufba.br
 
 
-![image](../images/biblioteca9_arq.jpg)
+![image](../images/biblioteca8_eco.jpg)
 
 ### Biblioteca de Arquitetura
 
@@ -160,6 +158,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bibarq\@ufba.br
 
+![image](../images/biblioteca9_arq.jpg)
 
 ### Biblioteca do Centro de Estudos e Terapia do Abuso de Drogas -- CETAD
 
@@ -175,9 +174,9 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bibliotecacetad\@hotmail.com
 
-![image](../images/biblioteca10_cetad.jpg)
-
-![image](../images/biblioteca11_ici.jpg)
+<p align="center">
+  <img width="460" height="300" src="../images/biblioteca10_cetad.jpg">
+</p>
 
 ### Biblioteca do Instituto de Ciência da Informação
 
@@ -192,6 +191,8 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   Tel.: (71) 3283-7757
 
 -   E-mail: bibici\@ufba.br
+
+![image](../images/biblioteca11_ici.jpg)
 
 
 ### Biblioteca do Museu de Arte Sacra
@@ -208,6 +209,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bibmas\@ufba.br
 
+![image](../images/biblioteca12_mas.jpg) 
 
 ### Biblioteca Nelson de Araújo da Escola de Teatro
 
@@ -220,9 +222,8 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bitea\@ufba.br
 
-![image](../images/biblioteca12_mas.jpg) 
+
 ![image](../images/biblioteca13_tea.jpg)
-![image](../images/biblioteca14_ceao.jpg)
 
 ### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
 
@@ -236,6 +237,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: biceao\@ufba.br
 
+![image](../images/biblioteca14_ceao.jpg)
 
 ### Biblioteca Shiguemi Fujimori do Instituto de Geociências
 
@@ -266,7 +268,6 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   E-mail: bibeba\@ufba.br
 
 ![image](../images/biblioteca16_eba.jpg)
-![image](../images/biblioteca17_dir.jpg)
 
 ### Biblioteca Teixeira de Freitas da Faculdade de Direito
 
@@ -281,7 +282,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bidir\@ufba.br
 
-![image](../images/biblioteca18_gon.jpg)
+![image](../images/biblioteca17_dir.jpg)
 
 ### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
 
@@ -297,6 +298,8 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bibgm\@ufba.br
 
+![image](../images/biblioteca18_gon.jpg)
+
 ### Biblioteca Prof. José Bernardo Cordeiro Filho - Faculdade de Ciências Contábeis
 
 -   Abriga acervo dos cursos de Ciências Contábeis.
@@ -311,6 +314,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bibcontabeis\@ufba.br
 
+![image](../images/biblioteca19_cont.jpg)
 
 ### Biblioteca do Campus Universitário Anísio Teixeira
 
@@ -326,7 +330,6 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: bcat\@ufba.br
 
-![image](../images/biblioteca19_cont.jpg)
 ![image](../images/ufba_cat.jpg)
 
 ### Consulta ao acervo, reserva e renovação
@@ -337,6 +340,7 @@ exemplares. Os estudantes, por meio do número de matrícula e senha,
 podem também verificar o histórico de empréstimo, a data de devolução,
 fazer renovações e acompanhar as reservas.
 
+---
 
 Residências universitárias
 ==========================
@@ -350,6 +354,8 @@ da Universidade. A 1ª localizada no Corredor da Vitória, a segunda no
 Largo da Vitória,a terceira na Graça e a quarta na Avenida Anita
 Garibaldi.
 
+![image](../images/residenciaUfba.jpg)
+
 Restaurantes universitários
 ===========================
 
@@ -359,6 +365,8 @@ matricula e pagar um valor de R\$ 2,50. Porém, as refeições são
 limitadas e distribuídas por ordem de chegada. Sendo o número de fichas
 em torno de 400, é preciso chegar com certa antecedência para conseguir
 pegar a refeição. São oferecidas duas opções: vegetariana e tradicional.
+
+![image](../images/RuUfba.jpg)
 
 Creche
 ======
@@ -372,9 +380,6 @@ serviço de educação infantil na faixa etária de 4 (quatro) meses a 3
 regulamente matriculados em curso de graduação e não podem ter vínculo
 empregatício.
 
-![image](../images/residenciaUfba.jpg)
-![image](../images/RuUfba.jpg)
-![image](../images/creche.jpg)
 
 ### Serviço Creche UFBA
 
@@ -411,6 +416,9 @@ pontos facultativos) e possui dois regimes:
 -   parcial - das 7 às 13 horas no turno matutino ou das 13 às 18 horas
     no turno vespertino
 
+![image](../images/creche.jpg)
+
+
 Serviço Médico Universitário Rubens Brasil
 ==========================================
 
@@ -421,12 +429,10 @@ seus respectivos familiares. Para ter acesso a este serviço o associado
 a UFBA tem de passar por uma triagem que é requisitada no momento de
 ingresso na universidade.
 
+![image](../images/smurb.jpg)
+
 BUZUFBA
 =======
-
-
-![image](../images/smurb.jpg)
-![image](../images/buzufba.jpg)
   
 Os estudantes da UFBA podem contar com o serviço gratuito dos BUZUFBAS.
 A frota conta com cinco BUZUFBAS, dois que foram recentemente
@@ -442,6 +448,9 @@ pela comunidade.
 As variadas rotas perpassam os distribuídos campi com horários fixos. O
 serviço é bastante útil mas precisa ser melhorado em relação ao tamanho
 da frota e aos horários de modo que não haja superlotação.
+
+![image](../images/buzufba.jpg)
+
 
 Bolsas e auxílios
 =================
@@ -489,6 +498,6 @@ a terminalidade dos estudos em nível de graduação.Para participar, o
 aluno deve submeter de projetos, para avaliação, em uma das áreas de
 Iniciação: Extensão,Ensino, Pesquisa ou Aprendizagens Profissionais.
 
-![image](../images/permanecer.jpg)
-
-
+<p align="center">
+  <img width="460" height="300" src="../images/permanecer.jpg">
+</p>
