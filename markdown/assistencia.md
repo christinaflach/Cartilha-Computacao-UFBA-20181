@@ -9,6 +9,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 ![Biblioteca de Exatas](../images/biblioteca20_exatas.jpg)
 
+
 ### Biblioteca Universitária Reitor Macedo Costa
 
 -   Abriga acervo do Instituto de Letras, Faculdade de Comunicação,
@@ -37,7 +38,9 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   Endereço: Rua Barão de Jeremoabo, s/n, 40170-290 - Salvador.
 
-![image](../biblioteca3_fch.jpg)
+![image](../images/biblioteca3_fch.jpg)
+
+<img align="left" width="300" height="300" src="../images/biblioteca3_fch.jpg">
 
 ### Biblioteca Universitária de Saúde Prof. Álvaro Rubim de Pinho
 
