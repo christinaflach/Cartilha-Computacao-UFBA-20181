@@ -6,13 +6,12 @@ Em 2018.1, faremos a conversão automática da Cartilha anterior (ver pasta late
 para o formato markdown.
 A versão da Cartilha que foi colocada na pasta latex/ serve apenas como entrada referência para o trabalho de atualização da Turma de 2018.1.
 
-Após a conversão para markdown, iniciaremos o trabalho de atualização da Cartilha.
-
+Após a conversão para markdown, iniciaremos o trabalho de revisão crítica e atualização da Cartilha.
 
 ## Entrega em 28/5: Visão Crítica da Cartilha
 Em equipe de até 5 pessoas.
 - Atenção: A equipe deve criar uma 'branch' exclusiva e trabalhar sobre ela (por exemplo, equipe01).
-- Usar a versão da cartilha gerada em public/index.html sempre que precisar mostrar a versão atual da Cartilha.
+- Usar a versão da cartilha gerada em public/index.html sempre que precisar mostrar a versão atual da Cartilha na consulta a um veterano do curso ou a um professor.
 - A equipe deve criar um relatório com avaliação crítica consolidado de todos os membros da equipe sobre a Cartilha de Calouros (avaliacao_da_equipe.md). Colocar os nomes dos membros da equipe no início do texto.
 - A equipe deve criar um guia de perguntas (guia_de_perguntas.md) para entrevista semi-estruturada a ser realizada com estudantes e docentes da Computação-UFBA sobre a Cartilha de Calouros. Fazer perguntas sobre formato, organização geral e conteúdo.
 - Cada membro da equipe deve entrevistar um colega veterano sobre a Cartilha, seguindo o guia de perguntas definido. Cada membro da equipe deve colocar no github as respostas de seu entrevistado (entrevistado_01.md e assim por diante). 
