@@ -20,7 +20,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 -   Endereço: Rua Barão de Jeremoabo, s/n, Campus Universitário de
     Ondina, 40170-290 - Salvador
 
-![Biblioteca](../biblioteca.jpg)
+![Biblioteca](../images/biblioteca.jpg)
 
 ### Biblioteca Universitária de Exatas Omar Catunda
 
@@ -110,7 +110,7 @@ gratuitos de material bibliográfico aos estudantes da UFBA.
 
 -   E-mail: dortas\@ufba.br
 
-![image](../images/biblioteca6_adm)
+![image](../images/biblioteca6_adm.jpg)
 
 ### Biblioteca da Escola de Música
 
