@@ -1,12 +1,12 @@
-Equipe01
+Equipe02
 ========
  
 
-## Participantes
-+ Arthur Pontes de Santana
-+ Jardel Pereira Baia Junior
-+ Matheus Izidio de Azevedo
-+ Renan Basilio de Camargo Crê
-+ Vítor Renato Souza Leal
+## Participante
++ Alan Divino
++ Artur Oscar
++ Roque Santana
++ Samuel Rios
++ Vinicius Teixeira
 
 
