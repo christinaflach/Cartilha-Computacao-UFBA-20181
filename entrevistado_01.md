@@ -7,9 +7,7 @@ Dados do Entrevistado:
 
 - Respostas:
 
-1. Você já leu a cartilha ou já conhecia sua existência?
-
-- Não, na verdade não conhecia. Gostaria até de saber onde encontro...
+1. "Não, na verdade não conhecia. Gostaria até de saber onde encontro..."
 
 2. ...
 
