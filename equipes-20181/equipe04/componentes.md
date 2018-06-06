@@ -1,8 +1,7 @@
 # Componentes
-### equipe04
-
+----------------------------------
 * Bruno Nunes de Oliveira Machado
-* Fl·vio Aleph Santos do Nascimento
+* Fl√°vio Aleph Santos do Nascimento
 * Giselly A.R.
 * Pedro Pimentel Santos Santana Coelho
 * Rafael Silva Pereira
