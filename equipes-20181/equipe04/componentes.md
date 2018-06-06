@@ -1,5 +1,4 @@
 # Componentes
-----------------------------------
 * Bruno Nunes de Oliveira Machado
 * Flávio Aleph Santos do Nascimento
 * Giselly A.R.
