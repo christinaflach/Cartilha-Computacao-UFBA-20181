@@ -1,9 +1,8 @@
 ﻿# Entrevistado 3
-========
 
-Nome:Guilherme Celestino
-Curso:Ciência da Computação
-Semestre:2°
+* Nome:Guilherme Celestino
+* Curso:Ciência da Computação
+* Semestre:2°
 
 1. "Conheço, mas não li toda."
 
