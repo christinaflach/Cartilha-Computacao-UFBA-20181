@@ -1,15 +1,15 @@
 Guia de Perguntas
 =================
++
++
++**1.** Sobre a Cartilha de Calouros, você a conhece?
 
++**2.** Caso não conheça, seria de sua vontade conhecê-la?
 
-**1.** Sobre a Cartilha de Calouros, você a conhece?
++**3.** Depois de vê-la você acha que deveria ser mais divulgada?
 
-**2.** Caso não conheça, seria de sua vontade conhece-la?
++**4.** Se a conhecer antes dessa entrevista, ela foi de alguma utilidade para você?
 
-**3.** Depois de ve-la você acha que deveria ser mais divulgada?
++**5.** Você considerou a cartilha de fácil compreensão?
 
-**4.** Se a conhecer antes dessa entrevista, ela foi de alguma utilidade para você?
-
-**5.** Você considerou a cartilha de fácil compreensão?
-
-**6.** Na sua opinião, o que poderia ser adicionada à cartilha para ajudar os futuros calouros ou mesmo veteranos?
++**6.** Na sua opinião, o que poderia ser adicionada à cartilha para ajudar os futuros calouros ou mesmo veteranos?
