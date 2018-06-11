@@ -42,7 +42,7 @@ Operacionais e administração de redes.
 
 #### Laboratório de Sistemas Distribuídos
 
-![Lasid](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/lasid.png)
+![Lasid](../images/lasid.png)
 
 O Laboratório de Sistemas Distribuídos (LaSiD) atua no desenvolvimento
 de técnicas e ferramentas para concepção dos sistemas distribuídos. O
@@ -53,7 +53,7 @@ sensores, plataformas de software, entre outros.
 
 #### Laboratório de Engenharia de Software
 
-![Les](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/les.jpg)
+![Les](../images/les.jpg)
 
 LES é a sigla para o Laboratório de engenharia de software, que tem como
 objetivo estudar a disciplina de engenharia de software e algumas
@@ -87,7 +87,7 @@ social.
 
 ## GRUPRO
 
-![grupro](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/gr.png)
+![grupro](../images/gr.png)
 
 O Grupo de Programação (GRUPRO) busca aprimorar as habilidades em
 programação dos estudantes e para isso são realizados treinamentos
@@ -106,11 +106,11 @@ Brasileira de Computação e tem várias modalidades que vão desde o ensino
 fundamental até o nível universitário. Na modalidade Universitária podem
 competir somente os alunos que estiverem no primeiro ano da graduação. 
 
-![OBI](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/ob.png)
+![OBI](../images/ob.png)
 
 ## Maratona de Programação
 
-![Maratonaprog](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/MaratonadeProgramacao.jpg)
+![Maratonaprog](../images/MaratonadeProgramacao.jpg)
 
 Outra atividade acadêmica em que os alunos UFBA podem participar, é a
 maratona de programação, que é um evento do Associação para Máquinas da
@@ -136,11 +136,11 @@ acontecer na Dakota do Sul nos EUA.
 É uma competição global de programação onde estudantes se confrontam em
 resoluções de problemas durante o período de 24 horas.
 
-![IEEE](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/123.jpg)
+![IEEE](../images/123.jpg)
 
 ## Programa de Educação Tutorial
 
-![PET](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/pe.jpg)
+![PET](../images/pe.jpg)
 
 É um programa da Secretaria de Educação Superior, juntamente com o MEC
 que visa apoiar atividades acadêmicas que integrem a combinação de
@@ -179,7 +179,7 @@ De acordo com o ProGrad, os pets em atual funcionamento são:
 
 ## Empresas Juniores
 
-![Info](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/inf.png)
+![Info](../images/inf.png)
 
 As empresas juniores são associações sem fins lucrativos cujo principal
 objetivo é pôr em prática aquilo que foi aprendido na sala de aula, como
@@ -233,7 +233,7 @@ interessadas nos assuntos tratados e profissionais de áreas diversas,
 com interesse nas palestras, oficinas, discussões e minicursos
 realizados durante os dias do evento.
 
-![congreUFBA](https://raw.githubusercontent.com/christinaflach/Cartilha-Computacao-UFBA/mata39-20181/images/cong.png)
+![congreUFBA](../images/cong.png)
 
 ## SEMCOMP
 

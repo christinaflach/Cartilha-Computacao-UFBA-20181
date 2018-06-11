@@ -46,21 +46,21 @@ Centro de Apoio Administrativo
 ------------------------------
 
 “Denominado CEAD, tem como missão assessorar o Dirigente da Unidade no
-que se refere ao planejamento e administração da Unidade”.\
+que se refere ao planejamento e administração da Unidade”.
 
 Centro de Atendimento à Graduação
 ---------------------------------
 
 “Denominado CEAG, tem como missão assessorar administrativamente todas
 as atividades que visem a manutenção e o desenvolvimento do ensino de
-graduação do Instituto de Matemática e Estatística”.\
+graduação do Instituto de Matemática e Estatística”.
 
 Centro de Atendimento à Pós-Graduação
 -------------------------------------
 
 “Denominado CEAPG, tem como missão assessorar administrativamente todas
 as atividades que visem a manutenção e o desenvolvimento dos programas
-de pós-graduação do Instituto de Matemática e Estatística”.\
+de pós-graduação do Instituto de Matemática e Estatística”.
 
 -   Para mais informações visite: http://www.im.ufba.br
 

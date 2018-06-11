@@ -1,16 +1,13 @@
 Assistência estudantil
 ======================
 
-\DoPToC
 Bibliotecas
 -----------
 
 A UFBA dispõe de 22 (vinte e duas) bibliotecas que oferecem empréstimos
 gratuitos de material bibliográfico aos estudantes da UFBA.
 
-R0.3 ![image]
-
-#### Biblioteca Universitária Reitor Macedo Costa
+### Biblioteca Universitária Reitor Macedo Costa
 
 -   Abriga acervo do Instituto de Letras, Faculdade de Comunicação,
     Instituto de Humanidades, Artes e Ciências, Instituto de Biologia,
@@ -23,10 +20,7 @@ R0.3 ![image]
 -   Endereço: Rua Barão de Jeremoabo, s/n, Campus Universitário de
     Ondina, 40170-290 - Salvador
 
-  [image]: biblioteca {width="29%"}
-  
-  \newpage
-R0.3 ![image]
+![Biblioteca Central](../images/biblioteca.JPG)
 
 ### Biblioteca Universitária de Exatas Omar Catunda
 
@@ -39,7 +33,7 @@ R0.3 ![image]
 
 -   Endereço: Rua Barão de Jeremoabo, s/n, 40170-290 - Salvador.
 
-R0.3 ![image][1]
+![Biblioteca de Exatas](../images/biblioteca20_exatas.jpg)
 
 ### Biblioteca Universitária de Saúde Prof. Álvaro Rubim de Pinho
 
@@ -53,7 +47,7 @@ R0.3 ![image][1]
 
 -   Endereço: Rua Basílio da Gama, s/n, Canela, 40110-907 - Salvador
 
-R0.3 ![image][2]
+![Biblioteca 2](../images/biblioteca2_bus.jpg)
 
 ### Biblioteca Universitária Isaías Alves
 
@@ -70,11 +64,9 @@ R0.3 ![image][2]
 
 -   E-mail: bsfch\@ufba.br
 
-  [image]: biblioteca20_exatas {width="29%"}
-  [1]: biblioteca2_bus {width="29%"}
-  [2]: biblioteca3_fch {width="29%"}
-  
-  R0.3 ![image]
+<p align="center">
+  <img width="460" height="300" src="../images/biblioteca3_fch.jpg">
+</p>
 
 ### Biblioteca Universitária Bernadeth Sinay Neves da Escola Politécnica
 
@@ -88,7 +80,7 @@ R0.3 ![image][2]
 
 -   E-mail: bieng\@ufba.br
 
-R0.3 ![image][1]
+![image](../images/biblioteca4_bernadeth.jpg)
 
 ### Biblioteca Anísio Teixeira da Faculdade de Educação
 
@@ -102,8 +94,7 @@ R0.3 ![image][1]
 
 -   E-mail: biedu\@ufba.br
 
-\newpage
-R0.3 ![image][2]
+![image](../images/biblioteca5_biedu.jpg)
 
 ### Biblioteca da Escola de Administração
 
@@ -119,10 +110,7 @@ R0.3 ![image][2]
 
 -   E-mail: dortas\@ufba.br
 
-  [image]: biblioteca4_bernadeth {width="29%"}
-  [1]: biblioteca5_biedu {width="29%"}
-  [2]: biblioteca6_adm {width="29%"}
-  R0.3 ![image]
+![image](../images/biblioteca6_adm.jpg)
 
 ### Biblioteca da Escola de Música
 
@@ -138,11 +126,9 @@ R0.3 ![image][2]
 
 -   E-mail: bibmus\@ufba.br
 
-R0.3 ![image][1]
+![image](../images/biblioteca7_mus.jpg) 
 
-  [image]: biblioteca7_mus {width="29%"}
-  [1]: biblioteca8_eco {width="29%"}
-  ### Biblioteca da Faculdade de Economia
+### Biblioteca da Faculdade de Economia
 
 -   Abriga acervo dos cursos de Ciências Econômicas.
 
@@ -155,10 +141,10 @@ R0.3 ![image][1]
 
 -   E-mail: fcebibl\@ufba.br
 
-R0.3 ![image]
 
-  [image]: biblioteca9_arq {width="29%"}
-  ### Biblioteca de Arquitetura
+![image](../images/biblioteca8_eco.jpg)
+
+### Biblioteca de Arquitetura
 
 -   Abriga acervo dos cursos de Arquitetura e Urbanismo.
 
@@ -172,7 +158,7 @@ R0.3 ![image]
 
 -   E-mail: bibarq\@ufba.br
 
-R0.3 ![image]
+![image](../images/biblioteca9_arq.jpg)
 
 ### Biblioteca do Centro de Estudos e Terapia do Abuso de Drogas -- CETAD
 
@@ -188,11 +174,10 @@ R0.3 ![image]
 
 -   E-mail: bibliotecacetad\@hotmail.com
 
-R0.3 ![image][1]
+<p align="center">
+  <img width="460" height="300" src="../images/biblioteca10_cetad.jpg">
+</p>
 
-  [image]: biblioteca10_cetad {width="29%"}
-  [1]: biblioteca11_ici {width="29%"}
-  \newpage
 ### Biblioteca do Instituto de Ciência da Informação
 
 -   Abriga acervo dos cursos de Ciência da Informação.
@@ -207,7 +192,8 @@ R0.3 ![image][1]
 
 -   E-mail: bibici\@ufba.br
 
-R0.3 ![image]
+![image](../images/biblioteca11_ici.jpg)
+
 
 ### Biblioteca do Museu de Arte Sacra
 
@@ -223,7 +209,7 @@ R0.3 ![image]
 
 -   E-mail: bibmas\@ufba.br
 
-R0.3 ![image][1]
+![image](../images/biblioteca12_mas.jpg) 
 
 ### Biblioteca Nelson de Araújo da Escola de Teatro
 
@@ -236,12 +222,10 @@ R0.3 ![image][1]
 
 -   E-mail: bitea\@ufba.br
 
-R0.3 ![image][2]
 
-  [image]: biblioteca12_mas {width="29%"}
-  [1]: biblioteca13_tea {width="29%"}
-  [2]: biblioteca14_ceao {width="29%"}
-  ### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
+![image](../images/biblioteca13_tea.jpg)
+
+### Biblioteca do Centro de Estudo Afro-Oriental -- CEAO
 
 -   Horário de funcionamento: segunda a sexta-feira, das 8:00h às
     19:00h.
@@ -253,7 +237,7 @@ R0.3 ![image][2]
 
 -   E-mail: biceao\@ufba.br
 
-R0.3 ![image]
+![image](../images/biblioteca14_ceao.jpg)
 
 ### Biblioteca Shiguemi Fujimori do Instituto de Geociências
 
@@ -270,9 +254,7 @@ R0.3 ![image]
 
 -   E-mail: bigeo\@ufba.br
 
-  [image]: biblioteca15_igeo {width="29%"}
-  \newpage
-R0.3 ![image]
+![image](../images/biblioteca15_igeo.jpg)
 
 ### Biblioteca Sofia Olszewski Filha da Escola de Belas Artes
 
@@ -285,11 +267,9 @@ R0.3 ![image]
 
 -   E-mail: bibeba\@ufba.br
 
-R0.3 ![image][1]
+![image](../images/biblioteca16_eba.jpg)
 
-  [image]: biblioteca16_eba {width="29%"}
-  [1]: biblioteca17_dir {width="29%"}
-  ### Biblioteca Teixeira de Freitas da Faculdade de Direito
+### Biblioteca Teixeira de Freitas da Faculdade de Direito
 
 -   Abriga acervo que abrange todas as áreas do direito.
 
@@ -302,10 +282,9 @@ R0.3 ![image][1]
 
 -   E-mail: bidir\@ufba.br
 
-R0.3 ![image]
+![image](../images/biblioteca17_dir.jpg)
 
-  [image]: biblioteca18_gon {width="29%"}
-  ### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
+### Biblioteca Professor Gonçalo Muniz e Memorial da Saúde Brasileira
 
 -   Abriga extenso acervo das áreas de Medicina.
 
@@ -318,7 +297,8 @@ R0.3 ![image]
 -   Tel.: (71) 3283-5575
 
 -   E-mail: bibgm\@ufba.br
-R0.3 ![image]
+
+![image](../images/biblioteca18_gon.jpg)
 
 ### Biblioteca Prof. José Bernardo Cordeiro Filho - Faculdade de Ciências Contábeis
 
@@ -334,7 +314,7 @@ R0.3 ![image]
 
 -   E-mail: bibcontabeis\@ufba.br
 
-R0.3 ![image][1]
+![image](../images/biblioteca19_cont.jpg)
 
 ### Biblioteca do Campus Universitário Anísio Teixeira
 
@@ -350,9 +330,9 @@ R0.3 ![image][1]
 
 -   E-mail: bcat\@ufba.br
 
-  [image]: biblioteca19_cont {width="29%"}
-  [1]: ufba_cat {width="29%"}
-  ### Consulta ao acervo, reserva e renovação
+![image](../images/ufba_cat.jpg)
+
+### Consulta ao acervo, reserva e renovação
 
 Através do sistema PERGAMUM os estudantes podem consultar o acervo
 bibliográfico das bibliotecas, bem como a quantidade disponível de
@@ -360,7 +340,7 @@ exemplares. Os estudantes, por meio do número de matrícula e senha,
 podem também verificar o histórico de empréstimo, a data de devolução,
 fazer renovações e acompanhar as reservas.
 
-R0.3 ![image]
+---
 
 Residências universitárias
 ==========================
@@ -374,10 +354,10 @@ da Universidade. A 1ª localizada no Corredor da Vitória, a segunda no
 Largo da Vitória,a terceira na Graça e a quarta na Avenida Anita
 Garibaldi.
 
+![image](../images/residenciaUfba.jpg)
+
 Restaurantes universitários
 ===========================
-
-L0.3 ![image][1]
 
 O restaurante universitário da UFBA distribui refeições no período do
 almoço e da janta necessitando apenas apresentar o comprovante de
@@ -385,6 +365,8 @@ matricula e pagar um valor de R\$ 2,50. Porém, as refeições são
 limitadas e distribuídas por ordem de chegada. Sendo o número de fichas
 em torno de 400, é preciso chegar com certa antecedência para conseguir
 pegar a refeição. São oferecidas duas opções: vegetariana e tradicional.
+
+![image](../images/RuUfba.jpg)
 
 Creche
 ======
@@ -398,12 +380,8 @@ serviço de educação infantil na faixa etária de 4 (quatro) meses a 3
 regulamente matriculados em curso de graduação e não podem ter vínculo
 empregatício.
 
-R0.3 ![image][2]
 
-  [image]: residenciaUfba.jpg {width="29%"}
-  [1]: RuUfba.jpg {width="29%"}
-  [2]: creche {width="29%"}
-  ### Serviço Creche UFBA
+### Serviço Creche UFBA
 
 A Creche UFBA é uma unidade vinculada à PROAE que atende crianças filhas
 de estudantes, servidores e professores da UFBA, com idades entre 4
@@ -437,10 +415,12 @@ pontos facultativos) e possui dois regimes:
 
 -   parcial - das 7 às 13 horas no turno matutino ou das 13 às 18 horas
     no turno vespertino
-    Serviço Médico Universitário Rubens Brasil
-==========================================
 
-R0.3 ![image]
+![image](../images/creche.jpg)
+
+
+Serviço Médico Universitário Rubens Brasil
+==========================================
 
 O SMURB -- Serviço Médico Universitário Rubens Brasil -- foi criado em
 1952 para atender os estudantes carentes, mas com a entrada do Doutor
@@ -449,14 +429,12 @@ seus respectivos familiares. Para ter acesso a este serviço o associado
 a UFBA tem de passar por uma triagem que é requisitada no momento de
 ingresso na universidade.
 
+![image](../images/smurb.jpg)
+
 BUZUFBA
 =======
-
-L0.3 ![image][1]
-
-  [image]: smurb.jpg {width="29%"}
-  [1]: buzufba {width="29%"}
-  Os estudantes da UFBA podem contar com o serviço gratuito dos BUZUFBAS.
+  
+Os estudantes da UFBA podem contar com o serviço gratuito dos BUZUFBAS.
 A frota conta com cinco BUZUFBAS, dois que foram recentemente
 adicionados.
 
@@ -470,6 +448,9 @@ pela comunidade.
 As variadas rotas perpassam os distribuídos campi com horários fixos. O
 serviço é bastante útil mas precisa ser melhorado em relação ao tamanho
 da frota e aos horários de modo que não haja superlotação.
+
+![image](../images/buzufba.jpg)
+
 
 Bolsas e auxílios
 =================
@@ -507,7 +488,6 @@ financeira para custear até duas refeições diárias.
 Garantia de duas refeições diárias realizadas no Restaurante
 Universitário.
 
-R0.3 ![image]
 
 Programa Permanecer
 -------------------
@@ -518,4 +498,6 @@ a terminalidade dos estudos em nível de graduação.Para participar, o
 aluno deve submeter de projetos, para avaliação, em uma das áreas de
 Iniciação: Extensão,Ensino, Pesquisa ou Aprendizagens Profissionais.
 
-  [image]: permanecer {width="29%"}
+<p align="center">
+  <img width="460" height="300" src="../images/permanecer.jpg">
+</p>

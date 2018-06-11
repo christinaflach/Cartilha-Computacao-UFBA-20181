@@ -4,13 +4,13 @@ Direitos do estudante
 Mobilidade acadêmica
 --------------------
 
-<img src="/images/mobi.jpg" alt="image" width="315" height="170" align="left">
+<span>L</span><span>0.5</span> ![image](mobi){width="49.00000%"}
 
 O Programa de Mobilidade Acadêmica foi criado com o objetivo de permitir
 que estudantes de graduação de Instituições Federais de Ensino Superior
 (IFES) brasileiras pudessem realizar intercâmbio entre elas. Para
 garantir sua participação o estudante precisa ter cursado todas as
-disciplinas do primeiro ano, ou seja, 1° e 2°
+disciplinas do primeiro ano, ou seja, 1$^{\mbox{o}}$ e 2$^{\mbox{o}}$
 semestres letivos do curso na Instituição de origem, e possuir no máximo
 uma (01) reprovação por período letivo.
 
@@ -18,11 +18,11 @@ O processo de mobilidade acadêmica não se aplica a pedidos de
 transferência de alunos entre as Instituições Federais de Ensino
 Superior, que normalmente é feito por Concurso de Vagas Residuais.
 
-1. O vínculo é temporário com a Instituição receptora, dependendo da
+1.  O vínculo é temporário com a Instituição receptora, dependendo da
     existência de disponibilidade de vaga e das possibilidades de
     inscrição na(s) disciplina(s) pretendida(s);
 
-2. O prazo máximo para afastamento é de 1 ano letivo, e em caráter
+2.  O prazo máximo para afastamento é de 1 ano letivo, e em caráter
     excepcional, a critério da Instituição receptora, poderá haver
     renovação, sucessiva ou intercalada, do vínculo temporário, por até
     mais um período letivo.
@@ -57,7 +57,8 @@ de Intercâmbio relacionados com Universidades brasileiras.
 
 Aproveitamento de disciplina
 ----------------------------
-<img src="/images/aproveite.jpeg" alt="image" width="200" height="200" align="left">
+
+<span>l</span><span>0.2</span> ![image](aproveite){width="19.00000%"}
 
 A dispensa de cursar, para efeito de integralização do currículo,
 determinado componente curricular ocorrerá mediante aproveitamento de
@@ -91,7 +92,7 @@ O estudante pode também solicitar o aproveitamento de disciplina através
 de um exame de conhecimento prévio. Para isto, o estudante deverá
 procurar o Colegiado do curso.
 
-<img src="/images/prova.jpg" alt="image" width="265" height="250" align="right">
+<span>r</span><span>0.4</span> ![image](prova){width="39.00000%"}
 
 O exame para a avaliação do conhecimento prévio deverá ser solicitado
 pelo Colegiado do curso ao órgão responsável pela oferta do componente
@@ -106,7 +107,8 @@ compatíveis com as características do componente a ser dispensado.
 
 Trancamento de matrícula
 ------------------------
-<img src="/images/tialara.jpg" alt="image" width="250" height="200" align="right">
+
+<span>r</span><span>0.4</span> ![image](tialara){width="39.00000%"}
 
 O trancamento de matrícula ou o trancamento total de inscrição em
 componentes curriculares, na graduação, não poderá ultrapassar 50%
@@ -162,28 +164,23 @@ curriculares no semestre letivo seguinte à interrupção.
 Regimes excepcionais
 --------------------
 
-
 Será concedido regime excepcional ao estudante que se enquadrar nas
-determinações do Decreto-Lei 1.044/69, da Lei n° 6.202/75 e
+determinações do Decreto-Lei 1.044/69, da Lei n$^{\mbox{o}}$ 6.202/75 e
 nas normas estabelecidas pela Resolução 09/2009/CEPE.
 
-<img src="/images/gravida.jpeg" alt="image" width="250" height="250" align="right">
+<span>r</span><span>0.3</span> ![image](gravida){width="29.00000%"}
 
 São considerados merecedores de tratamento excepcional os alunos de
 qualquer nível de ensino, portadores de afecções congênitas ou
 adquiridas, infecções, traumatismo ou outras condições mórbitas,
 determinando distúrbios agudos ou agudizados, caracterizados por:
 
-
-
-1. Incapacidade física relativa, incompatível com a frequência aos
+1.  Incapacidade física relativa, incompatível com a frequência aos
     trabalhos escolares, desde que se verifique a conservação das
     condições intelectuais e emocionais necessárias para o
     prosseguimento da atividade escolar em novos moldes;
-    
 
-
-2. Ocorrência isolada ou esporádica;
+2.  Ocorrência isolada ou esporádica;
 
 3.  Duração que não ultrapasse o máximo ainda admissível, em cada caso,
     para a continuidade do processo pedagógico de aprendizado, atendendo
