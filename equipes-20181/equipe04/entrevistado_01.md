@@ -3,10 +3,10 @@
 ###### Entrevistado por Bruno Nunes
 
 Pergunta: 
->"Você é familiar com a Cartilha de Calouros?" 
+> "Você é familiar com a Cartilha de Calouros?" 
 
 Resposta:
->"Não sou familiar com a cartilha de calouros não, na verdade nunca nem ouvi falar."
+> "Não sou familiar com a cartilha de calouros não, na verdade nunca nem ouvi falar."
 
 Pergunta:
 > "Se não, de que forma você foi introduzido ao curso?"
