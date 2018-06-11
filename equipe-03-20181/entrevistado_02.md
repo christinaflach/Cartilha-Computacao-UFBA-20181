@@ -1,8 +1,8 @@
 ﻿# Entrevistado 2
 
-Nome:Lucas Natanael
-Curso:Ciência da Computação
-Semestre:4°
+* Nome: Lucas Natanael
+* Curso: Ciência da Computação
+* Semestre: 4°
 
 1. "Só ouvi falar, mas não conheço."
 
