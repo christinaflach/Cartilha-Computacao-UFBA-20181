@@ -1,5 +1,5 @@
-# Entrevistado 04:
-##### Larissa Hora, Veterana de Licenciatura em Ciência da Computação no 3º Semestre
+﻿# Entrevistado 04:
+##### Larissa Hora, veterana de Licenciatura em Ciência da Computação no 3º Semestre
 ###### Entrevistado por Giselly Reis
 
 Pergunta: 

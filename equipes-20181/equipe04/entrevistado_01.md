@@ -1,5 +1,5 @@
-# Entrevistado 01:
-##### Cayo Froes, Veterano de Ciência da Computação no 6º semestre
+﻿# Entrevistado 01:
+##### Cayo Froes, veterano de Ciência da Computação no 6º semestre
 ###### Entrevistado por Bruno Nunes
 
 Pergunta: 

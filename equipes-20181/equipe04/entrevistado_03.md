@@ -1,5 +1,5 @@
-# Entrevistado 03:
-##### Luan Lemos, Veterano de Ciência da Computação no 2º semestre
+﻿# Entrevistado 03:
+##### Luan Lemos, veterano de Ciência da Computação no 2º semestre
 ###### Entrevistado por Rafael Pereira
 
 Pergunta: 
