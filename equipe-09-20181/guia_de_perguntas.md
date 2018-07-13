@@ -1,4 +1,4 @@
 # Guia de Perguntas
-1. A cartilha lhe foi útil na sua época de calouro? E depois?
-2. Se pudesse, acrescentaria alguma informação na cartilha? Se sim, quais?
-3. Ao ler a cartilha, alguma das secções lhe pareceu desnecessária? Se sim, qual?
+1. VocÃª conhecia a cartilha antes da entrevista?
+2. A cartilha lhe foi Ãºtil na sua Ã©poca de calouro? Porque?
+3. Quais informaÃ§Ãµes acharia Ãºtil colocar na cartilha?
