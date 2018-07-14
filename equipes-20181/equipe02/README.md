@@ -2,7 +2,7 @@ Equipe02
 ========
  
 
-## Participante
+## Participantes
 + Alan Divino
 + Artur Oscar
 + Roque Santana
