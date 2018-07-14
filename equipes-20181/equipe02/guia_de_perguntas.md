@@ -1,14 +1,12 @@
 Guia de perguntas
 =================
 
-1. Você conhece a Cartilha para Calouros?
+1. VocÃª conhece a Cartilha para Calouros?
 
-2. Ela foi útil para você?
+2. Ela foi Ãºtil para vocÃª?
 
-3. Por quê?
+3. Por quÃª?
 
 4. O que pode melhorar?
 
 5. Qual sua nota para a Cartilha? (De 0 a 10)
-	* 1 - Desnecessária
-	* 10 - Excelente
