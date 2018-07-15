@@ -7,13 +7,13 @@
 > Antônio, 2º semestre.
 
 #### Pergunta 2:
-> Você já ouviu falar da Cartilha?
+> Você já ouviu falar da Cartilha de computação?
 
 #### Resposta 2:
 > Sim, já ouvi.
 
 #### Pergunta 3:
-> Você sabe o que é a Cartilha? O que acha dela? 
+> Você sabe o que é a Cartilha de computação? O que acha dela? 
 
 #### Resposta 3:
 > Sei o que ela é. Acredito que a cartilha seja uma ótima ferramenta para sanar dúvidas 
