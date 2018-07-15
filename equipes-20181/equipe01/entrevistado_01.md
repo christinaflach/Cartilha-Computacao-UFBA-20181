@@ -1,35 +1,35 @@
 # Entrevistado 01:
 
-#### Pergunta:
-> 1 – Qual o seu nome? Qual o seu semestre? 
+#### Pergunta 1:
+> Qual o seu nome? Qual o seu semestre? 
 
-#### Resposta:
+#### Resposta 1:
 > João Medrado Gondim. 6º semestre.
 
 
-#### Pergunta:
-> 2 – Você já ouviu falar da Cartilha?
+#### Pergunta 2:
+> Você já ouviu falar da Cartilha?
 
-#### Resposta:
+#### Resposta 2:
 > Não.
 
 
-#### Pergunta:
-> 3 – Você sabe o que é a Cartilha? O que acha dela? 
+#### Pergunta 3:
+> Você sabe o que é a Cartilha? O que acha dela? 
 
-#### Resposta:
+#### Resposta 3:
 > Acho pouco divulgada.
 
 
-#### Pergunta:
-> 4 – Se você já usou a Cartilha qual foi o motivo? 
+#### Pergunta 4:
+> Se você já usou a Cartilha qual foi o motivo? 
 
-#### Resposta:
+#### Resposta 4:
 > Nunca usei.
 
 
-#### Pergunta:
-> 5 – O que você mudaria na Cartilha e por qual motivo você faria essa mudança? 
+#### Pergunta 5:
+> O que você mudaria na Cartilha e por qual motivo você faria essa mudança? 
 
-#### Resposta:
+#### Resposta 5:
 > Apresentaria melhor aos estudantes.
