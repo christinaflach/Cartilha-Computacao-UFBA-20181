@@ -1,6 +1,6 @@
 Proposta de aprimoramento da Cartilha
 =====================================
- <p> Os  aspectos a se trabalhar na cartilha são o seu tamanho e seu conteúdo que em parte é repetitivo e em outras traz informaçãos pouco detalhadas tornando-a inutilizável.</p>
+ <p> Os  aspectos a se trabalhar na cartilha são o seu tamanho e seu conteúdo que em parte é repetitivo e em outras traz informações pouco detalhadas tornando-a inutilizável.</p>
 <p>Dessa forma, o primeiro passo é remover as páginas em branco, uma vez que a cartilha não será impressa, isso ajudará a reduzir o número de páginas, evitando assim a impressão que a cartilha é muito grande.</p>
 <p>Abaixo segue uma lista de tópicos que podem ser removidos/modificados.</p>
   <p>5. Glossário Acadêmico – deve ser removida por conter informações que são facilmente adquiridas.</p>
