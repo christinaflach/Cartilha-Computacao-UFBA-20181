@@ -1,4 +1,4 @@
-Entrevistado não quis identificar-se.
+Entrevistad@ não quis identificar-se.
 =====================================
 
 
