@@ -1,5 +1,5 @@
 ## Sugestões para cartilha
- 
+
 Como sugestão, acreditamos que um tópico falando sobre o RU (restaurante universitário),
 e os auxílios fornecidos pela faculdade deveria ganhar um atenção maior e ter mais riqueza de informações 
 para auxiliar os novos estudantes. Pensamos também na criação de um app (ou outra plataforma) de integração esportiva. 
