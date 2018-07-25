@@ -5,4 +5,4 @@ pois não sabiam que ela existia. Para eles, a cartilha deveria ser mais divulga
 de saber da existência da cartilha, todos se negaram a ler devido ao tamanho.
 
 ![img](https://ibb.co/mnJoio)
-![img2](https://ibb.co/dZQZOo)
+![https://ibb.co/dZQZOo](https://ibb.co/dZQZOo)
